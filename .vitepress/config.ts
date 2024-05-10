@@ -8,11 +8,14 @@ export default defineConfig({
     ['link', { rel: "shortcut icon", href: "/favicon.ico"}],
     ['meta', { name: "google", content: "notranslate"}],
   ],
+  lang: "ru",
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     lightModeSwitchTitle: "Темная тема",
     darkModeSwitchTitle: "Светлая тема",
     darkModeSwitchLabel: "Тема",
+    returnToTopLabel: "Наверх",
 
     sidebar: [
       {

@@ -1,26 +1,29 @@
 <script setup lang="ts">
+import ExternalVideo from './ExternalVideo.vue';
+
 withDefaults(defineProps<{
     src: string;
     caption: string;
-    autoplay: boolean;
-    preload: "auto" | "metadata" | "none";
+    autoplay?: boolean;
+    preload?: "auto" | "metadata" | "none";
+    aspectRatio?: number | string;
 }>(), {
     preload: "metadata"
 });
 </script>
 
 <template>
-    <video
+    <ExternalVideo
         :src="src"
         :autoplay="autoplay"
         :preload="preload"
+        :aspectRatio="aspectRatio"
         width="100%"
         controls
         playsinline="true"
         muted
         loop
-    >
-    </video>
+    />
     <span class="caption">{{caption}}</span>
 </template>
 
