@@ -17,6 +17,7 @@ const handleToggle = () => {
         <ExternalVideo
             v-if="isOpened"
             v-bind="$attrs"
+            showImmediately
             autoplay
             width="100%"
             controls

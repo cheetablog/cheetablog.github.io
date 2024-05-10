@@ -3,13 +3,15 @@ import { ref, computed } from 'vue'
 
 const props = withDefaults(defineProps<{
     aspectRatio?: number | string;
+    showImmediately?: boolean;
 }>(),
 {
-    aspectRatio: 16 / 9
+    aspectRatio: 16 / 9,
+    showImmediately: false
 })
 
 const internalAspectRatio = ref();
-const isShow = ref(false)
+const isShow = ref(props.showImmediately)
 
 const handleShow = () => {
     isShow.value = true
