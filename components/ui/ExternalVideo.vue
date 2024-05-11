@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed } from 'vue'
+import { ref, computed, onMounted } from 'vue'
 
 const props = withDefaults(defineProps<{
     aspectRatio?: number | string;
@@ -10,15 +10,16 @@ const props = withDefaults(defineProps<{
     showImmediately: false
 })
 
+const videoRef = ref<HTMLVideoElement | null>(null)
 const internalAspectRatio = ref();
 const isShow = ref(props.showImmediately)
 
-const handleShow = () => {
+const show = () => {
     isShow.value = true
 }
 
 const handleLoadMetadata = ({ target }: { target: HTMLVideoElement }) => {
-    handleShow();
+    show();
 
     internalAspectRatio.value = Number(target.videoWidth) / Number(target.videoHeight);
 }
@@ -32,6 +33,12 @@ const style = computed(() => {
         aspectRatio: aspectRatio.value
     }
 })
+
+onMounted(() => {
+    if (videoRef.value?.preload === "none") {
+        show() 
+    }
+})
 </script>
 
 <template>
@@ -41,6 +48,7 @@ const style = computed(() => {
         class="external-video-wrapper"
     >
         <video
+            ref="videoRef"
             v-bind="$attrs"
             class="external-video"
             @loadedmetadata="handleLoadMetadata"

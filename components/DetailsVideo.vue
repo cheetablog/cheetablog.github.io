@@ -1,21 +1,13 @@
 <script setup lang="ts">
-import { ref } from 'vue'
-import ExternalVideo from './ExternalVideo.vue';
+import ExternalVideo from './ui/ExternalVideo.vue';
+import DetailsLazy from './ui/DetailsLazy.vue';
 
 defineProps<{summary: string}>();
-
-const isOpened = ref(false)
-
-const handleToggle = () => {
-    isOpened.value = true
-}
 </script>
 
 <template>
-    <details class="details custom-block" @toggle="handleToggle">
-        <summary>{{ summary }}</summary>
+    <DetailsLazy :summary="summary">
         <ExternalVideo
-            v-if="isOpened"
             v-bind="$attrs"
             showImmediately
             autoplay
@@ -25,5 +17,5 @@ const handleToggle = () => {
             muted
             loop
         />
-    </details>
+    </DetailsLazy>
 </template>

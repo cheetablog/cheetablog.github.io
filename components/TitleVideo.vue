@@ -1,7 +1,8 @@
 <script setup lang="ts">
-import ExternalVideo from './ExternalVideo.vue';
+import { computed } from 'vue';
+import ExternalVideo from './ui/ExternalVideo.vue';
 
-withDefaults(defineProps<{
+const props = withDefaults(defineProps<{
     src: string;
     caption: string;
     autoplay?: boolean;
@@ -10,11 +11,15 @@ withDefaults(defineProps<{
 }>(), {
     preload: "metadata"
 });
+
+const internalSrc = computed(() => {
+    return props.src + "#t=0.1"
+})
 </script>
 
 <template>
     <ExternalVideo
-        :src="src"
+        :src="internalSrc"
         :autoplay="autoplay"
         :preload="preload"
         :aspectRatio="aspectRatio"
