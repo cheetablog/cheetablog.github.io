@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref, computed, onMounted } from 'vue'
+import MediaPlaceholder from './MediaPlaceholder.vue';
 
 const props = withDefaults(defineProps<{
     aspectRatio?: number | string;
@@ -10,12 +11,13 @@ const props = withDefaults(defineProps<{
     showImmediately: false
 })
 
-const videoRef = ref<HTMLVideoElement | null>(null)
+const videoRef = ref<HTMLVideoElement | null>(null);
 const internalAspectRatio = ref();
-const isShow = ref(props.showImmediately)
+
+const mediaPlaceholderRef = ref<{ show: () => void } | null>(null)
 
 const show = () => {
-    isShow.value = true
+    mediaPlaceholderRef.value?.show()
 }
 
 const handleLoadMetadata = ({ target }: { target: HTMLVideoElement }) => {
@@ -42,37 +44,17 @@ onMounted(() => {
 </script>
 
 <template>
-    <div
+    <MediaPlaceholder
+        ref="mediaPlaceholderRef"
+        :showImmediately="showImmediately"
         :style="style"
-        :data-show="isShow"
-        class="external-video-wrapper"
     >
         <video
             ref="videoRef"
             v-bind="$attrs"
-            class="external-video"
             @loadedmetadata="handleLoadMetadata"
             :style="style"
         >
         </video>
-    </div>
+    </MediaPlaceholder>
 </template>
-
-<style>
-.external-video-wrapper {
-    background-color: var(--vp-c-gray-1);
-    border-radius: 11px;
-    width: 100%;
-}
-
-.external-video {
-    opacity: 0;
-    transition: opacity .2s ease;
-    border-radius: 10px;
-    width: 100%;
-}
-
-.external-video-wrapper[data-show=true] .external-video {
-    opacity: 1;
-}
-</style>
