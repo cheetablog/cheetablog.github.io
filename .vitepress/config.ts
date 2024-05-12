@@ -7,6 +7,18 @@ export default defineConfig({
   head: [
     ['link', { rel: "shortcut icon", href: "/favicon.ico"}],
     ['meta', { name: "google", content: "notranslate"}],
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-W8MQJYSY31' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-W8MQJYSY31');`
+    ]
   ],
   lang: "ru",
   cleanUrls: true,
