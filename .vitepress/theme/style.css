@@ -158,3 +158,19 @@
 .footer-icon {
   display: inline;
 }
+
+@media (min-width: 1280px) {
+  .questions-page .VPDoc .aside {
+    display: none;
+  }
+
+  .questions-page .VPDoc .container {
+    max-width: 752px;
+  }
+
+  .questions-page .VPDoc .content {
+    margin-inline: auto;
+    width: 100%;
+    max-width: 752px;
+  }
+}

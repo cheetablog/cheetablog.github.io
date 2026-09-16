@@ -1,0 +1,743 @@
+[
+  {
+    "id": 1,
+    "questionNumber": "001",
+    "questionText": "Вам когда-нибудь рекомендовали книгу, которая изменила вашу жизнь?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Мне нравится читать рекомендованные книги. И менять жизнь из-за них.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 2,
+    "questionNumber": "002",
+    "questionText": "Если бы вам пришлось вернуться в прошлое и прожить жизнь заново, вы бы всё равно стали писателем? Или выбрали бы что-то другое?",
+    "tags": [
+      "Личное",
+      "Писательство"
+    ],
+    "answerText": "Стал бы.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 3,
+    "questionNumber": "003",
+    "questionText": "Кто больше всего вдохновил вас или заслужил уважение в вашей писательской карьере? Если он тоже писатель, назовите, пожалуйста, одну из его книг!",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Энди Вейер, *«Марсианин»*.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 4,
+    "questionNumber": "004",
+    "questionText": "Какая книга из школьной программы вам больше всего запомнилась?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "*Chii-chan no Kageokuri* [детская книга об ужасах войны, автор — Кимико Аман].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 5,
+    "questionNumber": "005",
+    "questionText": "Расскажите, что за 20 лет вашей писательской карьеры осталось неизменным, а что изменилось.",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Я думал, что изменится мой художественный почерк [темы, жанры, направленность], но он остался прежним. Думал, что манера изложения [грамматика, кол-во диалогов, длина предложений] не изменится, а она изменилась. Также не ожидал, что рабочие инструменты настолько поменяются.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 6,
+    "questionNumber": "006",
+    "questionText": "Расскажите, что больше всего влияет на ваше творчество во время поездок заграницу.",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Книги, которые я читаю в самолете.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 7,
+    "questionNumber": "007",
+    "questionText": "Если бы Сэнгоку Надэко [из *Monogatari Series*] не стала такой популярной, считаете ли вы, что *Otorimonogatari* и последующие истории о ней развивались бы иначе?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Считаю.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 8,
+    "questionNumber": "008",
+    "questionText": "Во всех ваших работах присутствует множество уникальных персонажей с самыми разными характерами. Расскажите, кто из них больше всего похож на вас.",
+    "tags": [
+      "Densetsu Series",
+      "Личное"
+    ],
+    "answerText": "Ку Соракара [безэмоциональный главный герой *Densetsu Series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 9,
+    "questionNumber": "009",
+    "questionText": "Если бы все персонажи из каждой вашей работы померились силами в равных условиях, то кто бы в итоге победил?",
+    "tags": [
+      "Zaregoto Series",
+      "Densetsu Series"
+    ],
+    "answerText": "Номи Тино [бывшая девочка-волшебница из *Densetsu Series*]. Даже Дзюн Айкава [лучшая в мире наёмница из *Zaregoto Series*] устала бы от неё и ушла.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 10,
+    "questionNumber": "010",
+    "questionText": "Кого из ваших персонажей вам было проще всего писать?",
+    "tags": [
+      "Bishounen Tanteidan"
+    ],
+    "answerText": "Маюми Додзима [главная героиня *Bishounen Tanteidan*].",
+    "answerImage": "https://img2.teletype.in/files/56/de/56de4842-6f5d-4f49-b219-7f846033fe33.jpeg",
+    "answerImageDesc": "Маюми Додзима",
+    "answerVideo": null
+  },
+  {
+    "id": 11,
+    "questionNumber": "011",
+    "questionText": "Существует ли какая-нибудь пара персонажей из ваших работ, про которую вы бы подумали: «Было бы интересно написать разговор между ними»",
+    "tags": [
+      "Monogatari Series",
+      "Zaregoto Series"
+    ],
+    "answerText": "Ии-тян и Арараги-кун [протагонисты соотвественно *Zaregoto Series* и *Monogatari Series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 12,
+    "questionNumber": "012",
+    "questionText": "Среди всех персонажей из ваших работ есть ли кто-нибудь, с кем бы вы не поладили? И наоборот, с кем бы вы хорошо поладили?",
+    "tags": [
+      "Henkyaku Kaitou Series",
+      "Boukyaku Tantei Series"
+    ],
+    "answerText": "Сложно сказать, с кем бы я не поладил. Возможно, Торахарука Урусава [ультра-детектив из *Henkyaku Kaitou Series*]. А поладил бы я с Якускэ Какусидатэ [постоянный подозреваемый из *Boukyaku Tantei Series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 13,
+    "questionNumber": "013",
+    "questionText": "Вы однажды сказали, что довольно легко меняете задумки своих сюжетов. Но даже если это случается во время написания, со стороны не заметно, что внутри всё беспорядочно. Это происходит, потому что суть сюжета всегда остаётся неизменной?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "По возможности, я стараюсь завершить написание текста до момента, когда захочу поменять задумку.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 14,
+    "questionNumber": "014",
+    "questionText": "Если вспомнить персонажей из ваших ранних работ, таких как *Zaregoto Series*, *Katanagatari*, *Risuka Series*, мнение о каком герое у вас изменилось больше всего?",
+    "tags": [
+      "Zaregoto Series",
+      "Risuka Series",
+      "Katanagatari"
+    ],
+    "answerText": "Кидзутака Куги [высокомерный протагонист *Risuka Series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 15,
+    "questionNumber": "015",
+    "questionText": "Откуда вы черпаете идеи для выбора одежды в своих работах?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Текстовые описания.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 16,
+    "questionNumber": "016",
+    "questionText": "Какое из ваших произведений вам нравится больше всего?",
+    "tags": [
+      "Katanagatari",
+      "Личное"
+    ],
+    "answerText": "Мне нравятся все, но особенно — четвёртая книга *Katanagatari*.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 17,
+    "questionNumber": "017",
+    "questionText": "Если кто-то хочет прочитать своё первое ранобэ от NISIOISIN, какую книгу вы бы порекомендовали?",
+    "tags": [
+      "Henkyaku Kaitou Series"
+    ],
+    "answerText": "*Kaitou Furanuru no Junkai* [Первая книга из *Henkyaku Kaitou Series*. Последняя вышедшая книга Нисио Исина на момент ответа на вопрос]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 18,
+    "questionNumber": "018",
+    "questionText": "Много ваших произведений получили аниме-адаптации. Какой ваш любимый опенинг или эндинг среди них?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Мне очень понравилась заглавная песня из мобильной игры *Monogatari Series Puc Puc* — «[wicked prince](https://www.youtube.com/watch?v=9AUS3O9Ifhk)».",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": "https://youtu.be/9AUS3O9Ifhk"
+  },
+  {
+    "id": 19,
+    "questionNumber": "019",
+    "questionText": "Вы уже начали писать рассказы в смартфоне?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Да.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 20,
+    "questionNumber": "020",
+    "questionText": "Вы упоминали в *Zaregoto Dictional*[экстра-выпуск с информацией о вселенной франшизы], что для большинства персонажей в *Zaregoto Series* сначала были придуманы имена, а уже затем характеры. На данный момент, каких персонажей в ваших работах больше — для кого вы сначала придумываете имена или характер? Хотелось бы услышать вашего любимого персонажа того и другого типа.",
+    "tags": [
+      "Zaregoto Series",
+      "Delivery Room",
+      "Boukyaku Tantei Series",
+      "Писательство"
+    ],
+    "answerText": "Для подавляющего большинства персонажей сначала придумываю имя. Любимый персонаж этого типа — Мияко Мамамия [беременная протагонистка ранобэ *Delivery Room*. В имени есть возглас «Мамма миа»]. Персонаж, для которого сначала придумал характер и для которого было очень сложно придумать имя — это Кёко Окитэгами [главная героиня-детектив *Boukyaku Tantei Series*, которая забывает все события дня после сна. Кёко (今日子) значит «Дитя сегодняшнего дня»].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 21,
+    "questionNumber": "021",
+    "questionText": "Среди всех школ, появлявшихся в ваших работах, в какую вы бы хотели ходить больше всего?",
+    "tags": [
+      "Medaka Box"
+    ],
+    "answerText": "В Академию Хаконива [из манги *Medaka Box*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 22,
+    "questionNumber": "022",
+    "questionText": "Среди всех персонажей ваших работ визуальный дизайн какого героя оказался в точности таким, как вы его себе представляли?",
+    "tags": [
+      "Иллюстрации"
+    ],
+    "answerText": "Все они превзошли мои ожидания.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 23,
+    "questionNumber": "023",
+    "questionText": "Чей дизайн оказался самым неожиданным?",
+    "tags": [
+      "Monogatari Series",
+      "Иллюстрации"
+    ],
+    "answerText": "Ёцуги Ононоки [из *Monogatari Series*].",
+    "answerImage": "https://img4.teletype.in/files/7e/62/7e620da1-2d55-428c-a773-50dc1ef7f84c.jpeg",
+    "answerImageDesc": "Ёцуги Ононоки",
+    "answerVideo": null
+  },
+  {
+    "id": 24,
+    "questionNumber": "024",
+    "questionText": "Есть ли произведение, про которое вы бы сказали: «Да… Результат полностью отличается от первоначальной концепции»?",
+    "tags": [
+      "Monogatari Series",
+      "Писательство"
+    ],
+    "answerText": "*Monogatari Series*.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 25,
+    "questionNumber": "025",
+    "questionText": "Вы когда-нибудь перечитывали свои книги?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Да. Ужасающе много раз.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 26,
+    "questionNumber": "026",
+    "questionText": "Почему *Zaregoto Series* превратился из детективного сериала в сеттинге низкого фэнтези в боевой экшн во второй половине?",
+    "tags": [
+      "Zaregoto Series",
+      "Писательство"
+    ],
+    "answerText": "Потому что этого захотели персонажи.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 27,
+    "questionNumber": "027",
+    "questionText": "Среди всех написанных вами историй, есть ли такая, которую, по вашему мнению, вы могли бы написать только в тот конкретный момент?",
+    "tags": [
+      "Imperfect Girl",
+      "Писательство"
+    ],
+    "answerText": "Возможно, я написал *Imperfect Girl* только потому, что у меня был 10-летний юбилей творческой карьеры.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 28,
+    "questionNumber": "028",
+    "questionText": "В ваших работах встречаются персонажи, которым с самого начала присвоены цвета, такие как красный или синий. Случалось ли так, что иллюстратор придал какому-то персонажу не тот цвет, который вы представляли?",
+    "tags": [
+      "Писательство",
+      "Иллюстрации"
+    ],
+    "answerText": "Ни разу. Наоборот, я часто подбираю цвета, основываясь на иллюстрациях.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 29,
+    "questionNumber": "029",
+    "questionText": "Если бы вы могли на один день стать одним из своих персонажей, кого бы вы выбрали?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Очевидно, Дзюн Айкава [из *Zaregoto Series*].",
+    "answerImage": "https://img3.teletype.in/files/ac/e0/ace0b5c9-41a3-4673-b44c-5aaf1b345861.jpeg",
+    "answerImageDesc": "Дзюн Айкава",
+    "answerVideo": null
+  },
+  {
+    "id": 30,
+    "questionNumber": "030",
+    "questionText": "Есть ли в ваших работах персонаж, который появлялся гораздо чаще, чем вы изначально планировали?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Хитосики Дзэродзаки [из *Zaregoto Series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 31,
+    "questionNumber": "031",
+    "questionText": "Какую книгу было писать легко, а с какой возникли сложности?",
+    "tags": [
+      "Zaregoto Series",
+      "Densetsu Series",
+      "Писательство"
+    ],
+    "answerText": "Быстрее всего я написал *Kubishime Romanticist* [2 книга *Zaregoto Series*], сложнее всего было с *Higoden* [5 книга *Densetsu series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 32,
+    "questionNumber": "032",
+    "questionText": "Расскажите о сюжетном моменте из ваших работ с наибольшим чувством 蕩れ («торэ»).",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Определённо, это *тот самый* момент. [蕩れ («торэ») — неологизм, который придумала Хитаги Сэндзёгахара в *Mayoi Snail*, второй истории в рамках *Bakemonogatari*, 3 эпизод аниме. Означает это слово «чувство, сильнее чем моэ». Если знаете английский, можете посмотреть [разбор разговора](https://youtu.be/qDGurC5CB-s) с этим словом — про 蕩れ («торэ») говорится на отметке 06:17]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 33,
+    "questionNumber": "033",
+    "questionText": "Если бы вы захотели отправиться в отпуск, куда бы вы поехали?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Республика Маврикий [островное государство восточнее Мадагаскара]. Там существует развлечение под названием *«Прогулка со львами»*…",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 34,
+    "questionNumber": "034",
+    "questionText": "Расскажите, пожалуйста, что вас мотивирует продолжать писать!",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Видимо, будильник.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 35,
+    "questionNumber": "035",
+    "questionText": "Какую франшизу вы хотите продолжать писать до самого конца?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Все, которые начал.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 36,
+    "questionNumber": "036",
+    "questionText": "Сколько сюжетных концепций у вас сейчас в голове?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Ноль.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 37,
+    "questionNumber": "037",
+    "questionText": "Откуда вы берёте идеи для ваших историй?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Из окна поезда.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 38,
+    "questionNumber": "038",
+    "questionText": "Когда вы размышляете о структуре произведения, с чего вы начинаете: с личности персонажа или с кульминации сюжета?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "В подавляющем большинстве случаев — с персонажей.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 39,
+    "questionNumber": "039",
+    "questionText": "Среди ваших книг есть ли такие, концовки которых вы хотели бы изменить?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Ни одной.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 40,
+    "questionNumber": "040",
+    "questionText": "Ваше произведение, Bishounen Tanteidan, было адаптировано для театральной постановки. Вы посещали эту постановку? Если да, пожалуйста, поделитесь своими впечатлениями.",
+    "tags": [
+      "Bishounen Tanteidan"
+    ],
+    "answerText": "Это было невероятно весело и невероятно красиво.",
+    "answerImage": "https://img2.teletype.in/files/53/fc/53fcd95f-653b-40be-871f-54aed8c58913.jpeg",
+    "answerImageDesc": "Актеры театральной постановки *Bishounen Tanteidan*",
+    "answerVideo": null
+  },
+  {
+    "id": 41,
+    "questionNumber": "041",
+    "questionText": "Если бы вы писали не исключительно ради удовольствия, произведения какого типа вы бы создавали?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "*Lipogra!* [Произведение NISIOISIN’а из 15 глав, каждая из которых — липограмма. То есть текст, в котором не используется какой-либо один символ или слог. Каждую из глав иллюстрировал известный художник — Дзюндзи Ито, Хиро Масима, Кумэта Кодзи и другие]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 42,
+    "questionNumber": "042",
+    "questionText": "Каково ваше определение «гения»?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Эксцентричный, странный человек.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 43,
+    "questionNumber": "043",
+    "questionText": "Кто самый гениальный персонаж среди всех ваших работ?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Цубаса Ханэкава [из *Monogatari Series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 44,
+    "questionNumber": "044",
+    "questionText": "Если бы вы могли встретиться с одним из своих персонажей в реальной жизни, кто бы это был?",
+    "tags": [
+      "Bishounen Tanteidan"
+    ],
+    "answerText": "Манабу Сотоин, лидер «Клуба красавчиков-детективов» [из *Bishounen Tanteidan*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 45,
+    "questionNumber": "045",
+    "questionText": "Когда по вашим книгам снимались аниме или дорамы, вы смотрели их в прямом эфире?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Конечно, смотрел в прямом эфире.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 46,
+    "questionNumber": "046",
+    "questionText": "Какая книга дала вам наибольшее чувство удовлетворения от хорошо выполненной работы?",
+    "tags": [
+      "Delivery Room",
+      "Писательство"
+    ],
+    "answerText": "*Delivery Room* [Сюжет: пять беременных женщин получают письмо с приглашением принять участие в загадочном ивенте. Приз — безопасные роды и большое будущее ребенку].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 47,
+    "questionNumber": "047",
+    "questionText": "Назовите свой любимый сезон *Pretty Cure*, сезон *Kamen Rider*, супергероя *Marvel*, произведение *Disney* и фильм *Ghibli*.",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "*Heartcatch Precure!*, *Black RX*, Капитан Америка, *Alice's Wonderland Bakery*, *«Навсикая из Долины ветров».*",
+    "answerImage": "https://img3.teletype.in/files/e3/af/e3af25cd-ba9b-4003-a106-d520d898c6e1.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 48,
+    "questionNumber": "048",
+    "questionText": "Назовите произведение, которое вам больше всего понравилось.",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "В этому году — это *Dekin no Mogura* [манга от создателя *Hoozuki no Reitetsu* («Хладнокровный Ходзуки»), Нацуми Эгути]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 49,
+    "questionNumber": "049",
+    "questionText": "Практически у всех ваших персонажей необычные имена. Используете ли вы определённые системы именования для каждой книги или франшизы?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Иногда да, иногда нет.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 50,
+    "questionNumber": "050",
+    "questionText": "Все ваши работы так или иначе затрагивают психологию или человеческую психику. Что именно, по вашему мнению, представляет собой 心 (kokoro) [душа, дух, сердце, психика]?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "У меня пока нет хорошего ответа.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 51,
+    "questionNumber": "051",
+    "questionText": "Какая недавно прочитанная книга, услышанная песня или просмотренный фильм особенно запомнились вам?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "*Thor: Love and Thunder* (*«Тор: Любовь и гром»*).",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 52,
+    "questionNumber": "052",
+    "questionText": "Судя по игре слов в ваших произведениях, у вас невероятно богатый словарный запас, как у какого-то лингвистического волшебника! Откуда вы узнали все эти слова?!",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Из прочитанных книг.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 53,
+    "questionNumber": "053",
+    "questionText": "Для написания одной книги сколько исследовательских материалов вы обычно прочитываете?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Я не читаю что-либо ради написания книг. Я читаю ради удовольствия.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 54,
+    "questionNumber": "054",
+    "questionText": "Что для вас самое важное при написании книги?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Не причинять вред ни одному персонажу.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 55,
+    "questionNumber": "055",
+    "questionText": "Продолжение какой книги вы хотели бы прочитать? Будь то ваша работа, или чья-то другая.",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "У меня нет особого желания читать продолжение завершившейся книги.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 56,
+    "questionNumber": "056",
+    "questionText": "Продолжают ли быть популярными наглые эгоистичные персонажи, у которых всегда всё получается?",
+    "tags": [
+      "Henkyaku Kaitou Series",
+      "Писательство"
+    ],
+    "answerText": "Если посмотреть на такого персонажа, как Торахарука Урусава [из *Henkyaku Kaitou Series*], то мой ответ — «да».",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 57,
+    "questionNumber": "057",
+    "questionText": "На каком виде транспорта вам нравится путешествовать?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Круизный лайнер.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 58,
+    "questionNumber": "058",
+    "questionText": "Если бы вы написали историю в поджанре «исэкай», какого из существующих персонажей вы перенесли бы в другой мир? А если выберете нового персонажа, то в каком сеттинге была бы книга?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Я однажды думал о *Mitarai Kiyoshi wa Isekai Ni Itte mo Meitantei* (*«Митарай Киёси и в другом мире знаменитый детектив»*) [отсылка на романы об упомянутом детективе писателя по имени Содзи Симада].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 59,
+    "questionNumber": "059",
+    "questionText": "Если бы вам пришлось провести день дома с одним из ваших персонажей, кого бы вы выбрали?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Я бы предпочёл остаться дома один.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 60,
+    "questionNumber": "060",
+    "questionText": "Кто ваш самый любимый персонаж среди всех произведений?",
+    "tags": [
+      "Monogatari Series",
+      "Личное"
+    ],
+    "answerText": "Хитаги Сэндзёгахара [из *Monogatari Series*].",
+    "answerImage": "https://img4.teletype.in/files/39/8a/398a8442-9ece-4cec-8b9c-b14ef1b3dde2.jpeg",
+    "answerImageDesc": "Хитаги Сэндзёгахара",
+    "answerVideo": null
+  }
+]
