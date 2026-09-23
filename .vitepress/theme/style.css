@@ -180,6 +180,12 @@
   text-decoration-color: currentColor;
 }
 
+@media (max-width: 959px) {
+  .questions-page .VPLocalNav {
+    display: none;
+  }
+}
+
 @media (min-width: 1280px) {
   .questions-page .VPDoc .aside {
     display: none;

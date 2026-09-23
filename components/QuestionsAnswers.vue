@@ -59,7 +59,7 @@ const storageReady = ref(false)
 const selectedTagsStorageKey = 'nisio-questions-selected-tags'
 const openedImage = ref<{ src: string; alt: string } | null>(null)
 const referencedQuestion = ref<QuestionItem | null>(null)
-const showDesktopBackToTop = ref(false)
+const showBackToTop = ref(false)
 const filtersElement = ref<HTMLElement | null>(null)
 const questionViewerElement = ref<HTMLElement | null>(null)
 const imageViewerElement = ref<HTMLElement | null>(null)
@@ -69,6 +69,7 @@ let referencedQuestionTrigger: HTMLElement | null = null
 let imageViewerTrigger: HTMLElement | null = null
 let pageLayoutElement: HTMLElement | null = null
 let pageLayoutWasInert = false
+let lastScrollY = 0
 
 const focusableSelector = [
   'a[href]',
@@ -93,8 +94,15 @@ const restoreFocus = async (element: HTMLElement | null) => {
   }
 }
 
-const updateDesktopBackToTop = () => {
-  showDesktopBackToTop.value = window.scrollY > window.innerHeight * 3
+const updateBackToTop = () => {
+  const currentScrollY = Math.max(window.scrollY, 0)
+  const isScrollingUp = currentScrollY < lastScrollY
+  const filtersAreAboveViewport = (
+    filtersElement.value?.getBoundingClientRect().bottom || 0
+  ) < 0
+
+  showBackToTop.value = isScrollingUp && filtersAreAboveViewport
+  lastScrollY = currentScrollY
 }
 
 const scrollToTop = () => {
@@ -103,19 +111,6 @@ const scrollToTop = () => {
     behavior: reduceMotion ? 'auto' : 'smooth',
     block: 'start',
   })
-}
-
-const handleMobileBackToTop = (event: MouseEvent) => {
-  if (!window.matchMedia('(max-width: 959px)').matches) return
-
-  const target = event.target as Element | null
-  const button = target?.closest<HTMLButtonElement>('.VPLocalNavOutlineDropdown button')
-
-  if (!button || button.textContent?.trim() !== 'Наверх') return
-
-  event.preventDefault()
-  event.stopImmediatePropagation()
-  scrollToTop()
 }
 
 const closeImage = () => {
@@ -178,9 +173,9 @@ const handleKeydown = (event: KeyboardEvent) => {
 
 onMounted(() => {
   window.addEventListener('keydown', handleKeydown)
-  window.addEventListener('scroll', updateDesktopBackToTop, { passive: true })
-  document.addEventListener('click', handleMobileBackToTop, true)
-  updateDesktopBackToTop()
+  window.addEventListener('scroll', updateBackToTop, { passive: true })
+  lastScrollY = Math.max(window.scrollY, 0)
+  updateBackToTop()
 
   try {
     const storedTags = localStorage.getItem(selectedTagsStorageKey)
@@ -205,8 +200,7 @@ onMounted(() => {
 
 onUnmounted(() => {
   window.removeEventListener('keydown', handleKeydown)
-  window.removeEventListener('scroll', updateDesktopBackToTop)
-  document.removeEventListener('click', handleMobileBackToTop, true)
+  window.removeEventListener('scroll', updateBackToTop)
 
   if (isScrollLocked) {
     document.body.style.overflow = bodyOverflowBeforeViewer
@@ -636,14 +630,14 @@ const isDirectVideo = (source: string) => {
 
   <Transition name="back-to-top">
     <button
-      v-if="showDesktopBackToTop && !referencedQuestion && !openedImage"
+      v-if="showBackToTop && !referencedQuestion && !openedImage"
       type="button"
-      class="desktop-back-to-top"
+      class="back-to-top"
       aria-label="Вернуться наверх"
       @click="scrollToTop"
     >
-      <span aria-hidden="true">↑</span>
-      Наверх
+      <span class="back-to-top-icon" aria-hidden="true">↑</span>
+      <span class="back-to-top-label">Наверх</span>
     </button>
   </Transition>
 
@@ -769,7 +763,7 @@ const isDirectVideo = (source: string) => {
 
 <style scoped>
 .questions-and-answers,
-.desktop-back-to-top,
+.back-to-top,
 .question-viewer {
   --qa-orange: #ff9666;
   --qa-mint: #0fd1bd;
@@ -784,7 +778,7 @@ const isDirectVideo = (source: string) => {
 }
 
 :global(.dark) .questions-and-answers,
-:global(.dark) .desktop-back-to-top,
+:global(.dark) .back-to-top,
 :global(.dark) .question-viewer {
   --qa-orange: #ffa477;
   --qa-mint: #3ad8c7;
@@ -1188,29 +1182,39 @@ const isDirectVideo = (source: string) => {
   padding-right: 64px;
 }
 
-.desktop-back-to-top {
+.back-to-top {
   position: fixed;
-  right: 24px;
-  bottom: 24px;
+  right: calc(14px + env(safe-area-inset-right, 0px));
+  bottom: calc(14px + env(safe-area-inset-bottom, 0px));
   z-index: 50;
-  display: none;
+  display: flex;
   align-items: center;
-  gap: 7px;
-  padding: 9px 13px;
+  justify-content: center;
+  padding: 0;
+  width: 46px;
+  height: 46px;
   border: 1px solid color-mix(in srgb, var(--qa-mint) 55%, var(--vp-c-divider));
-  border-radius: 8px;
+  border-radius: 50%;
   color: var(--vp-c-text-1);
   background: color-mix(in srgb, var(--vp-c-bg) 92%, transparent);
   box-shadow: 0 6px 24px rgb(0 0 0 / 14%);
   font: inherit;
-  font-size: 14px;
+  font-size: 20px;
   cursor: pointer;
   backdrop-filter: blur(8px);
   transition: border-color 0.2s, background-color 0.2s, transform 0.2s;
 }
 
-.desktop-back-to-top:hover,
-.desktop-back-to-top:focus-visible {
+.back-to-top-icon {
+  line-height: 1;
+}
+
+.back-to-top-label {
+  display: none;
+}
+
+.back-to-top:hover,
+.back-to-top:focus-visible {
   border-color: var(--qa-mint);
   background: var(--vp-c-bg);
   transform: translateY(-2px);
@@ -1334,8 +1338,19 @@ const isDirectVideo = (source: string) => {
 }
 
 @media (min-width: 960px) {
-  .desktop-back-to-top {
-    display: flex;
+  .back-to-top {
+    right: 24px;
+    bottom: 24px;
+    gap: 7px;
+    padding: 9px 13px;
+    width: auto;
+    height: auto;
+    border-radius: 8px;
+    font-size: 14px;
+  }
+
+  .back-to-top-label {
+    display: inline;
   }
 }
 
@@ -1345,7 +1360,7 @@ const isDirectVideo = (source: string) => {
     transition: border-color 0.2s, background-color 0.2s, color 0.2s;
   }
 
-  .desktop-back-to-top,
+  .back-to-top,
   .back-to-top-enter-active,
   .back-to-top-leave-active {
     transition: none;
