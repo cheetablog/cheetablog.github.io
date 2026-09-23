@@ -23,8 +23,8 @@ features:
     link: /sakuga
     icon: ⚡️
   - title: "240 вопросов Нисио Исину"
-    details: "Вопросы"
+    details: "Автор Monogatari Series, Medaka Box, Katanagatari и многих других произведений, Нисио Исин, ответил на 240 вопросов фанатов. Я все их перевёл с японского и дополнил интересными заметками."
     link: /240Q
-    icon: ⚡️
+    icon: 📌
 ---
 
