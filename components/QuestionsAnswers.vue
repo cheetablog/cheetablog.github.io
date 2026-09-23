@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, onMounted, onUnmounted, ref, watch } from 'vue'
+import { computed, nextTick, onMounted, onUnmounted, ref, watch } from 'vue'
 import MarkdownIt from 'markdown-it'
 import questionsData from '../files/teletype-questions.json'
 
@@ -61,8 +61,37 @@ const openedImage = ref<{ src: string; alt: string } | null>(null)
 const referencedQuestion = ref<QuestionItem | null>(null)
 const showDesktopBackToTop = ref(false)
 const filtersElement = ref<HTMLElement | null>(null)
+const questionViewerElement = ref<HTMLElement | null>(null)
+const imageViewerElement = ref<HTMLElement | null>(null)
 let bodyOverflowBeforeViewer = ''
 let isScrollLocked = false
+let referencedQuestionTrigger: HTMLElement | null = null
+let imageViewerTrigger: HTMLElement | null = null
+let pageLayoutElement: HTMLElement | null = null
+let pageLayoutWasInert = false
+
+const focusableSelector = [
+  'a[href]',
+  'button:not([disabled])',
+  'iframe',
+  'video[controls]',
+  '[tabindex]:not([tabindex="-1"])',
+].join(',')
+
+const focusFirstElement = async (container: { value: HTMLElement | null }) => {
+  await nextTick()
+  container.value
+    ?.querySelector<HTMLElement>(focusableSelector)
+    ?.focus({ preventScroll: true })
+}
+
+const restoreFocus = async (element: HTMLElement | null) => {
+  await nextTick()
+
+  if (element?.isConnected) {
+    element.focus({ preventScroll: true })
+  }
+}
 
 const updateDesktopBackToTop = () => {
   showDesktopBackToTop.value = window.scrollY > window.innerHeight * 3
@@ -90,20 +119,60 @@ const handleMobileBackToTop = (event: MouseEvent) => {
 }
 
 const closeImage = () => {
+  const trigger = imageViewerTrigger
   openedImage.value = null
+  imageViewerTrigger = null
+  void restoreFocus(trigger)
 }
 
 const closeReferencedQuestion = () => {
+  const trigger = referencedQuestionTrigger
   referencedQuestion.value = null
+  referencedQuestionTrigger = null
+  void restoreFocus(trigger)
 }
 
 const handleKeydown = (event: KeyboardEvent) => {
-  if (event.key !== 'Escape') return
+  if (event.key === 'Escape') {
+    if (!openedImage.value && !referencedQuestion.value) return
 
-  if (openedImage.value) {
-    closeImage()
-  } else {
-    closeReferencedQuestion()
+    event.preventDefault()
+
+    if (openedImage.value) {
+      closeImage()
+    } else {
+      closeReferencedQuestion()
+    }
+
+    return
+  }
+
+  if (event.key !== 'Tab') return
+
+  const activeViewer = imageViewerElement.value || questionViewerElement.value
+
+  if (!activeViewer) return
+
+  const focusableElements = [...activeViewer.querySelectorAll<HTMLElement>(focusableSelector)]
+
+  if (focusableElements.length === 0) {
+    event.preventDefault()
+    return
+  }
+
+  const firstElement = focusableElements[0]
+  const lastElement = focusableElements[focusableElements.length - 1]
+  const activeElement = document.activeElement
+
+  if (!activeViewer.contains(activeElement)) {
+    event.preventDefault()
+    firstElement.focus()
+  } else if (event.shiftKey && activeElement === firstElement) {
+    event.preventDefault()
+    lastElement.focus()
+  } else if (!event.shiftKey && activeElement === lastElement) {
+    event.preventDefault()
+    firstElement.focus()
   }
 }
 
@@ -142,6 +211,10 @@ onUnmounted(() => {
   if (isScrollLocked) {
     document.body.style.overflow = bodyOverflowBeforeViewer
   }
+
+  if (pageLayoutElement && !pageLayoutWasInert) {
+    pageLayoutElement.removeAttribute('inert')
+  }
 })
 
 watch(selectedTags, (tags) => {
@@ -159,9 +232,19 @@ watch(() => Boolean(openedImage.value || referencedQuestion.value), (overlayIsOp
     bodyOverflowBeforeViewer = document.body.style.overflow
     document.body.style.overflow = 'hidden'
     isScrollLocked = true
+    pageLayoutElement = document.querySelector<HTMLElement>('.Layout')
+    pageLayoutWasInert = pageLayoutElement?.hasAttribute('inert') || false
+    pageLayoutElement?.setAttribute('inert', '')
   } else if (!overlayIsOpen && isScrollLocked) {
     document.body.style.overflow = bodyOverflowBeforeViewer
     isScrollLocked = false
+
+    if (pageLayoutElement && !pageLayoutWasInert) {
+      pageLayoutElement.removeAttribute('inert')
+    }
+
+    pageLayoutElement = null
+    pageLayoutWasInert = false
   }
 })
 
@@ -356,7 +439,12 @@ const handleContentClick = (event: MouseEvent) => {
 
   if (!questionNumber) return
 
+  referencedQuestionTrigger = reference || null
   referencedQuestion.value = questionsByNumber.get(questionNumber) || null
+
+  if (referencedQuestion.value) {
+    void focusFirstElement(questionViewerElement)
+  }
 }
 
 const imageAlt = (item: QuestionItem) => {
@@ -365,13 +453,15 @@ const imageAlt = (item: QuestionItem) => {
     .trim()
 }
 
-const openImage = (item: QuestionItem) => {
+const openImage = (item: QuestionItem, event: MouseEvent) => {
   if (!item.answerImage) return
 
+  imageViewerTrigger = event.currentTarget as HTMLElement
   openedImage.value = {
     src: item.answerImage,
     alt: imageAlt(item),
   }
+  void focusFirstElement(imageViewerElement)
 }
 
 const youtubeEmbedUrl = (source: string) => {
@@ -499,7 +589,7 @@ const isDirectVideo = (source: string) => {
               type="button"
               class="answer-image-button"
               :aria-label="`Открыть изображение: ${imageAlt(item)}`"
-              @click="openImage(item)"
+              @click="openImage(item, $event)"
             >
               <img
                 :src="item.answerImage"
@@ -546,7 +636,7 @@ const isDirectVideo = (source: string) => {
 
   <Transition name="back-to-top">
     <button
-      v-if="showDesktopBackToTop"
+      v-if="showDesktopBackToTop && !referencedQuestion && !openedImage"
       type="button"
       class="desktop-back-to-top"
       aria-label="Вернуться наверх"
@@ -560,9 +650,12 @@ const isDirectVideo = (source: string) => {
   <Teleport to="body">
     <div
       v-if="referencedQuestion"
+      ref="questionViewerElement"
       class="question-viewer"
       role="dialog"
-      aria-modal="true"
+      :aria-modal="openedImage ? undefined : 'true'"
+      :aria-hidden="openedImage ? 'true' : undefined"
+      :inert="Boolean(openedImage)"
       :aria-labelledby="`referenced-question-${referencedQuestion.id}`"
       @click.self="closeReferencedQuestion"
     >
@@ -603,7 +696,7 @@ const isDirectVideo = (source: string) => {
               type="button"
               class="answer-image-button"
               :aria-label="`Открыть изображение: ${imageAlt(referencedQuestion)}`"
-              @click="openImage(referencedQuestion)"
+              @click="openImage(referencedQuestion, $event)"
             >
               <img
                 :src="referencedQuestion.answerImage"
@@ -650,6 +743,7 @@ const isDirectVideo = (source: string) => {
 
     <div
       v-if="openedImage"
+      ref="imageViewerElement"
       class="image-viewer"
       role="dialog"
       aria-modal="true"
