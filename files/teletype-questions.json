@@ -1,0 +1,2934 @@
+[
+  {
+    "id": 1,
+    "questionNumber": "001",
+    "questionText": "Вам когда-нибудь рекомендовали книгу, которая изменила вашу жизнь?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Мне нравится читать рекомендованные книги. И менять жизнь из-за них.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 2,
+    "questionNumber": "002",
+    "questionText": "Если бы вам пришлось вернуться в прошлое и прожить жизнь заново, вы всё равно бы стали писателем? Или выбрали что-то другое?",
+    "tags": [
+      "Личное",
+      "Писательство"
+    ],
+    "answerText": "Стал бы.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 3,
+    "questionNumber": "003",
+    "questionText": "Кто больше всего повлиял на ваше творчество? Или, может быть, есть человек, которого вы особенно уважаете? Если он тоже писатель, назовите, пожалуйста, одну из его книг!",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Энди Вейер, *«Марсианин»*.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 4,
+    "questionNumber": "004",
+    "questionText": "Какая книга из [японской] школьной программы вам больше всего запомнилась?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "*Chii-chan no Kageokuri* [детская книга об ужасах войны, автор — Кимико Аман].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 5,
+    "questionNumber": "005",
+    "questionText": "Расскажите, что за 20 лет вашей писательской карьеры осталось неизменным, а что изменилось.",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Я думал, что изменится мой авторский почерк [темы, жанры, направленность, атмосфера, персонажи], но он остался прежним. Думал, что процесс работы над текстами не изменится, а он изменился — не ожидал, что рабочие инструменты настолько преобразятся.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 6,
+    "questionNumber": "006",
+    "questionText": "Расскажите, что больше всего влияет на ваше творчество во время поездок за границу.",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Книги, которые я читаю в самолете.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 7,
+    "questionNumber": "007",
+    "questionText": "Если бы Надэко Сэнгоку [*Monogatari Series*] не стала такой популярной, считаете ли вы, что *Otorimonogatari* и последующие истории о ней развивались бы иначе?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Считаю.",
+    "answerImage": "https://img3.teletype.in/files/6d/06/6d06dcd5-9ca3-4d9b-b014-ebac00286cbc.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 8,
+    "questionNumber": "008",
+    "questionText": "Во всех ваших работах присутствует множество уникальных персонажей с самыми разными характерами. Расскажите, кто из них больше всего похож на вас.",
+    "tags": [
+      "Densetsu Series",
+      "Личное"
+    ],
+    "answerText": "Ку Соракара [безэмоциональный главный герой *Densetsu Series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 9,
+    "questionNumber": "009",
+    "questionText": "Если бы все персонажи из каждой вашей работы померились силами в равных условиях, то кто бы в итоге победил?",
+    "tags": [
+      "Zaregoto Series",
+      "Densetsu Series"
+    ],
+    "answerText": "Номи Тино [бывшая девочка-волшебница из *Densetsu Series*]. Даже Дзюн Айкава [сильнейшая наёмница человечества из *Zaregoto Series*] устала бы от неё и ушла.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 10,
+    "questionNumber": "010",
+    "questionText": "Кого из персонажей вам было проще всего писать?",
+    "tags": [
+      "Pretty Boy Detective Club"
+    ],
+    "answerText": "Маюми Додзима [главная героиня *Bishounen Tanteidan (Pretty Boy Detective Club)*].",
+    "answerImage": "https://img4.teletype.in/files/7e/08/7e085ed9-14f1-463e-8dc8-f312f6b69d4a.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 11,
+    "questionNumber": "011",
+    "questionText": "Существует ли какая-нибудь пара персонажей из ваших работ, разговор между которыми было бы интересно написать?",
+    "tags": [
+      "Monogatari Series",
+      "Zaregoto Series"
+    ],
+    "answerText": "И-тян и Арараги-кун [протагонисты соотвественно *Zaregoto Series* и *Monogatari Series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 12,
+    "questionNumber": "012",
+    "questionText": "Среди всех персонажей из ваших работ есть ли кто-нибудь, с кем бы вы не поладили? И наоборот, с кем бы вы хорошо поладили?",
+    "tags": [
+      "Henkyaku Kaitou Series",
+      "Forgetful Detective"
+    ],
+    "answerText": "Сложно сказать, с кем бы я не поладил. Возможно, Торахарука Урусава [*Henkyaku Kaitou Series*]. А поладил бы я с Якускэ Какусидатэ [рассказчик и постоянный подозреваемый из *Boukyaku Tantei Series (Forgetful Detective)*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 13,
+    "questionNumber": "013",
+    "questionText": "Вы однажды сказали, что довольно легко меняете задумки своих сюжетов. Но даже если это случается во время написания, со стороны не заметно, что внутри всё беспорядочно. Это происходит, потому что суть сюжета всегда остаётся неизменной?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "По возможности, я стараюсь закончить текст до того, как успею передумать.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 14,
+    "questionNumber": "014",
+    "questionText": "Если вспомнить персонажей из ваших ранних работ, таких как *Zaregoto Series*, *Katanagatari*, *Risuka Series*, мнение о каком герое у вас изменилось больше всего?",
+    "tags": [
+      "Zaregoto Series",
+      "Risuka Series",
+      "Katanagatari"
+    ],
+    "answerText": "Кидзутака Куги [высокомерный протагонист *Risuka Series*].",
+    "answerImage": "https://img4.teletype.in/files/31/6d/316dfdf7-31e6-49b0-8edf-7924421bc1f3.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 15,
+    "questionNumber": "015",
+    "questionText": "Откуда вы черпаете идеи для одежды и образов в своих работах?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Из облика слов [как иероглифы смотрятся в тексте].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 16,
+    "questionNumber": "016",
+    "questionText": "Какое из ваших произведений вам нравится больше всего?",
+    "tags": [
+      "Katanagatari",
+      "Личное"
+    ],
+    "answerText": "Мне нравятся все, но особенно — четвёртая книга *Katanagatari*.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 17,
+    "questionNumber": "017",
+    "questionText": "Если кто-то хочет прочитать своё первое ранобэ от Нисо Исина, какую книгу вы бы порекомендовали?",
+    "tags": [
+      "Henkyaku Kaitou Series"
+    ],
+    "answerText": "*Kaitou Furanuru no Junkai* [Первая книга *Henkyaku Kaitou Series*. Последняя вышедшая книга Нисио Исина на момент выхода этих вопросов/ответов]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 18,
+    "questionNumber": "018",
+    "questionText": "Много ваших произведений получили аниме-адаптации. Какой ваш любимый опенинг или эндинг среди них?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Мне очень понравился опенинг мобильной игры *Monogatari Series Puc Puc* — [wicked prince](https://youtu.be/9AUS3O9Ifhk).",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": "https://youtu.be/9AUS3O9Ifhk"
+  },
+  {
+    "id": 19,
+    "questionNumber": "019",
+    "questionText": "Вы уже начали писать рассказы на смартфоне?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Да.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 20,
+    "questionNumber": "020",
+    "questionText": "Вы упоминали в *Zaregoto Dictional* [экстра-выпуск с информацией о вселенной франшизы], что для большинства персонажей в *Zaregoto Series* сначала были придуманы имена, а уже затем характеры. На данный момент, каких персонажей в ваших работах больше — для кого вы сначала придумываете имена или характер? Хотелось бы услышать вашего любимого персонажа того и другого типа.",
+    "tags": [
+      "Zaregoto Series",
+      "Delivery Room",
+      "Forgetful Detective",
+      "Писательство"
+    ],
+    "answerText": "Для подавляющего большинства персонажей сначала придумываю имя. Любимый персонаж этого типа — Мияко Мамамия [беременная протагонистка ранобэ *Delivery Room*. Фамилия 儘宮 (Мамамия) похожа на возглас «Мамма миа!» Если в имени 宮子 (Мияко) переставить местами иероглифы, получится слово, обозначающее женский орган «матка» — 子宮 (сикю)].\n\nПерсонаж, для которого сначала придумал характер и для которого было очень сложно придумать имя — это Кёко Окитэгами [главная героиня-детектив *Boukyaku Tantei Series (Forgetful Detective)*, которая забывает все события дня после сна. Имя 今日子 (Кёко) значит «девушка сегодняшнего дня». Фамилия 掟上 (Окитэгами) произносится также, как слово 置き手紙, что означает «оставлять заметку» — Кёко часто пишет на своём теле маркером послания будущей себе на случай, если нечаянно уснёт или кто-то усыпит].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 21,
+    "questionNumber": "021",
+    "questionText": "Среди всех школ, появлявшихся в ваших работах, в какую вы бы хотели ходить больше всего?",
+    "tags": [
+      "Medaka Box"
+    ],
+    "answerText": "В Академию Хаконива [*Medaka Box*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 22,
+    "questionNumber": "022",
+    "questionText": "Дизайн какого вашего персонажа, переданный приглашённым художником, оказался в точности таким, каким вы его себе представляли?",
+    "tags": [
+      "Про иллюстрации"
+    ],
+    "answerText": "Все они превзошли мои ожидания.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 23,
+    "questionNumber": "023",
+    "questionText": "Чей дизайн оказался самым неожиданным?",
+    "tags": [
+      "Monogatari Series",
+      "Про иллюстрации"
+    ],
+    "answerText": "Ёцуги Ононоки [*Monogatari Series*].",
+    "answerImage": "https://img2.teletype.in/files/19/b9/19b90f8d-0b17-4908-b5ff-6c003f2a6b66.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 24,
+    "questionNumber": "024",
+    "questionText": "Есть ли произведение, про которое вы бы сказали: «Да… Результат полностью отличается от первоначальной концепции»?",
+    "tags": [
+      "Monogatari Series",
+      "Писательство"
+    ],
+    "answerText": "*Monogatari Series*.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 25,
+    "questionNumber": "025",
+    "questionText": "Вы когда-нибудь перечитывали свои книги?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Да. Ужасающе много раз.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 26,
+    "questionNumber": "026",
+    "questionText": "Почему *Zaregoto Series* превратился из детективного сериала в сеттинге низкого фэнтези в боевой экшн во второй половине?",
+    "tags": [
+      "Zaregoto Series",
+      "Писательство"
+    ],
+    "answerText": "Потому что этого захотели персонажи.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 27,
+    "questionNumber": "027",
+    "questionText": "За свою карьеру вы написали множество самых разных произведений. Есть ли среди них эпизод или история, которые, как вам кажется, вы могли написать только на том этапе своей жизни?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Возможно, я смог написать *Shoujo Fujuubun (Imperfect Girl)* только потому, что у меня был 10-летний юбилей творческой карьеры. [В описании ранобэ написано: «Мне потребовалось десять лет, чтобы написать эту книгу». См. вопрос 081]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 28,
+    "questionNumber": "028",
+    "questionText": "В ваших работах встречаются персонажи, которым с самого начала присвоены цвета, такие как красный или синий. Случалось ли так, что иллюстратор придал какому-то персонажу не тот цвет, который вы представляли?",
+    "tags": [
+      "Писательство",
+      "Про иллюстрации"
+    ],
+    "answerText": "Ни разу. Наоборот, я часто подбираю цвета, основываясь на иллюстрациях.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 29,
+    "questionNumber": "029",
+    "questionText": "Если бы вы могли на один день стать одним из своих персонажей, кого бы вы выбрали?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Очевидно, Дзюн Айкава [*Zaregoto Series*].",
+    "answerImage": "https://img3.teletype.in/files/67/75/6775206f-e051-4367-8d48-16461440c655.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 30,
+    "questionNumber": "030",
+    "questionText": "Есть ли в ваших работах персонаж, который появлялся гораздо чаще, чем вы изначально планировали?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Хитосики Дзэродзаки [*Zaregoto Series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 31,
+    "questionNumber": "031",
+    "questionText": "Какую книгу было писать легко, а с какой возникли сложности?",
+    "tags": [
+      "Zaregoto Series",
+      "Densetsu Series",
+      "Писательство"
+    ],
+    "answerText": "Быстрее всего я написал *Kubishime Romanticist* [2 книга *Zaregoto Series*. В *Zaregoto Dictional* автор утверждает, что написал её за 3 дня], сложнее всего было с *Higoden* [5 книга *Densetsu Series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 32,
+    "questionNumber": "032",
+    "questionText": "Расскажите о сюжетном моменте из ваших работ с наибольшим чувством 蕩れ (торэ).",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Определённо, это тот самый момент. [蕩れ (торэ) — неологизм, который придумала Хитаги Сэндзёгахара в *Mayoi Snail*, второй истории в рамках *Bakemonogatari*, 3 эпизод аниме. Означает это слово «чувство, сильнее чем моэ» — не просто умиление, а почти полное эмоциональное пленение. Если знаете английский, можете посмотреть [разбор разговора](https://youtu.be/qDGurC5CB-s) с этим словом — про 蕩れ (торэ) говорится на отметке 06:17]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 33,
+    "questionNumber": "033",
+    "questionText": "Если бы вы захотели отправиться в отпуск, куда бы вы поехали?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Республика Маврикий [островное государство восточнее Мадагаскара]. Там существует развлечение под названием «Прогулка со львами»…",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 34,
+    "questionNumber": "034",
+    "questionText": "Расскажите, пожалуйста, что вас мотивирует продолжать писать!",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Видимо, будильник.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 35,
+    "questionNumber": "035",
+    "questionText": "Какой цикл книг вы хотите продолжать писать до самого конца?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Все, которые начал.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 36,
+    "questionNumber": "036",
+    "questionText": "Сколько сюжетных концепций у вас сейчас в голове?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Ноль.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 37,
+    "questionNumber": "037",
+    "questionText": "Откуда вы берёте идеи для ваших историй?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Из окна поезда.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 38,
+    "questionNumber": "038",
+    "questionText": "Когда вы размышляете о структуре произведения, с чего вы начинаете: с личности персонажа или с кульминации сюжета?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "В подавляющем большинстве случаев — с персонажей.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 39,
+    "questionNumber": "039",
+    "questionText": "Среди ваших книг есть ли такие, концовки которых вы хотели бы изменить?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Ни одной.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 40,
+    "questionNumber": "040",
+    "questionText": "Ваше произведение, *Bishounen Tanteidan (Pretty Boy Detective Club)*, было адаптировано для театральной постановки. Вы посещали эту постановку? Если да, пожалуйста, поделитесь своими впечатлениями.",
+    "tags": [
+      "Pretty Boy Detective Club"
+    ],
+    "answerText": "Это было невероятно весело и невероятно красиво.",
+    "answerImage": "https://img1.teletype.in/files/08/e7/08e73f0d-98fa-4426-b349-8a73d79ea7d7.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 41,
+    "questionNumber": "041",
+    "questionText": "Если бы вы писали книги не 100% в качестве хобби, произведения какого типа вы бы создавали?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "*Lipogra!* [Произведение Нисио Исина из 15 глав, каждая из которых — липограмма. То есть текст, в котором не используется какой-либо один символ или слог. Каждую из глав иллюстрировал известный художник — Дзюндзи Ито, Хиро Масима, Кумэта Кодзи и другие]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 42,
+    "questionNumber": "042",
+    "questionText": "Каково ваше определение «гения»?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Эксцентричный, странный человек.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 43,
+    "questionNumber": "043",
+    "questionText": "Кто самый гениальный персонаж среди всех ваших работ?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Цубаса Ханэкава [*Monogatari Series*, см. вопрос 042].",
+    "answerImage": "https://img4.teletype.in/files/76/12/7612a08f-63f4-474f-849d-e01528746471.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 44,
+    "questionNumber": "044",
+    "questionText": "Если бы вы могли встретиться с одним из своих персонажей в реальной жизни, кто бы это был?",
+    "tags": [
+      "Pretty Boy Detective Club"
+    ],
+    "answerText": "Манабу Сотоин, лидер «Клуба красавчиков-детективов» [*Bishounen Tanteidan (Pretty Boy Detective Club)*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 45,
+    "questionNumber": "045",
+    "questionText": "Когда по вашим книгам снимались аниме или дорамы, вы смотрели их в прямом эфире?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Конечно, смотрел в прямом эфире.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 46,
+    "questionNumber": "046",
+    "questionText": "Какая книга дала вам наибольшее чувство удовлетворения от хорошо выполненной работы?",
+    "tags": [
+      "Delivery Room",
+      "Писательство"
+    ],
+    "answerText": "*Delivery Room* [Сюжет: пять беременных женщин получают письмо с приглашением принять участие в загадочном ивенте. Приз — безопасные роды и большое будущее ребенку].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 47,
+    "questionNumber": "047",
+    "questionText": "Назовите свой любимый сезон *Pretty Cure*, сезон *Kamen Rider*, супергероя *Marvel*, произведение *Disney* и фильм *Ghibli*.",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "*Heartcatch Precure!*, *Black RX*, Капитан Америка, *Alice's Wonderland Bakery*, *«Навсикая из Долины ветров».*",
+    "answerImage": "https://img3.teletype.in/files/22/04/22045ef3-e149-4388-b731-deaa81c6575c.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 48,
+    "questionNumber": "048",
+    "questionText": "Назовите произведение, которое вам больше всего понравилось.",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "В этому году — это *Dekin no Mogura* [манга от создателя *Hoozuki no Reitetsu («Хладнокровный Ходзуки»)*, Нацуми Эгути]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 49,
+    "questionNumber": "049",
+    "questionText": "Практически у всех ваших персонажей необычные имена. Используете ли вы определённые системы именования для каждой книги или франшизы?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Иногда да, иногда нет.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 50,
+    "questionNumber": "050",
+    "questionText": "Все ваши работы так или иначе затрагивают психологию или человеческую психику. Что именно, по вашему мнению, представляет собой 心 (кокоро) [душа, дух, сердце, психика]?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "У меня пока нет хорошего ответа.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 51,
+    "questionNumber": "051",
+    "questionText": "Какая недавно прочитанная книга, услышанная песня или просмотренный фильм особенно запомнились вам?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "*Thor: Love and Thunder («Тор: Любовь и гром»)*.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 52,
+    "questionNumber": "052",
+    "questionText": "Судя по игре слов в ваших произведениях, у вас невероятно богатый словарный запас, как у какого-то лингвистического волшебника! Откуда вы узнали все эти слова?!",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Из прочитанных книг.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 53,
+    "questionNumber": "053",
+    "questionText": "Для написания одной книги сколько исследовательских материалов вы обычно прочитываете?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Я не читаю что-либо ради написания книг. Я читаю ради удовольствия.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 54,
+    "questionNumber": "054",
+    "questionText": "Что для вас самое важное при написании книги?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Не причинять вред ни одному персонажу.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 55,
+    "questionNumber": "055",
+    "questionText": "Продолжение какой книги вы хотели бы прочитать? Будь то ваша работа, или чья-то другая.",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "У меня нет особого желания читать продолжение завершившейся истории.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 56,
+    "questionNumber": "056",
+    "questionText": "Продолжают ли быть популярными наглые эгоистичные персонажи, у которых всегда всё получается?",
+    "tags": [
+      "Henkyaku Kaitou Series",
+      "Писательство"
+    ],
+    "answerText": "Если посмотреть на такого персонажа, как Торахарука Урусава [*Henkyaku Kaitou Series*], то мой ответ — «да».",
+    "answerImage": "https://img4.teletype.in/files/be/50/be500aac-6b9f-430c-9011-d21e0a038c2c.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 57,
+    "questionNumber": "057",
+    "questionText": "На каком виде транспорта вам нравится путешествовать?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Круизный лайнер.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 58,
+    "questionNumber": "058",
+    "questionText": "Если бы вы написали историю в поджанре «исэкай», какого из существующих персонажей вы перенесли бы в другой мир? А если выберете нового персонажа, то в каком сеттинге была бы книга?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Я однажды думал о *Mitarai Kiyoshi wa Isekai Ni Itte mo Meitantei («Киёси Митарай и в другом мире знаменитый детектив»)* [Киёси Митарай — персонаж детективных романов писателя по имени Содзи Симада. Статья про него и поджанр хонкаку [здесь](https://t.me/gorky_media/8683). См. вопрос 214].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 59,
+    "questionNumber": "059",
+    "questionText": "Если бы вам пришлось провести день дома с одним из ваших персонажей, кого бы вы выбрали?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Я бы предпочёл остаться дома один.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 60,
+    "questionNumber": "060",
+    "questionText": "Кто для вас персонаж «номер один» среди всех ваших произведений?",
+    "tags": [
+      "Monogatari Series",
+      "Личное"
+    ],
+    "answerText": "Хитаги Сэндзёгахара [*Monogatari Series*].",
+    "answerImage": "https://img4.teletype.in/files/fd/57/fd57b3b4-cc6a-4167-8217-1118b9aac41e.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 61,
+    "questionNumber": "061",
+    "questionText": "У многих ваших персонажей в имени используются сложные кандзи. Какое имя вызывает больше всего затруднений при вводе через клавиатуру смартфона/компьютера?",
+    "tags": [
+      "Densetsu Series",
+      "Писательство"
+    ],
+    "answerText": "Сё Нобориори (登澱證). [девочка-волшебница из *Densetsu Series*. Много японцев использует стандартную qwerty-клавиатуру для ввода слов по их звучанию. После ввода произношения пользователю предлагается на выбор разные иеорглифы-кандзи, которые соответствуют написанному произношению. Если этот кандзи не очень популярный, то для его выбора перебором может потребоваться много времени — что и имеется в виду в вопросе]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 62,
+    "questionNumber": "062",
+    "questionText": "Если бы вам пришлось переродиться в персонажа из *Monogatari Series*, кого бы вы выбрали?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Цукихи Арараги.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 63,
+    "questionNumber": "063",
+    "questionText": "Если бы пришлось отправиться на необитаемый остров, то с каким персонажем вы бы захотели там оказаться?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "На данный момент — Надэко Сенгоку [*Monogatari Series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 64,
+    "questionNumber": "064",
+    "questionText": "Сколько информации вы предоставляете иллюстраторам при заказе дизайнов персонажей, обложек и прочего?",
+    "tags": [
+      "Про иллюстрации"
+    ],
+    "answerText": "Я стараюсь предоставлять только свои рукописи и ничего больше.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 65,
+    "questionNumber": "065",
+    "questionText": "Куда вы любите путешествовать больше всего?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Венеция.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 66,
+    "questionNumber": "066",
+    "questionText": "Если бы миру понадобилось спасение, с каким персонажем вы бы отправились его спасать?",
+    "tags": [
+      "Risuka Series"
+    ],
+    "answerText": "Риска Мидзукура [главная героиня *Risuka Series*].",
+    "answerImage": "https://img4.teletype.in/files/7a/c7/7ac71856-b6a3-4671-b5f3-8fe214eee217.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 67,
+    "questionNumber": "067",
+    "questionText": "С каким персонажем из *Zaregoto Series* вы категорически не хотите становиться врагами?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Сиоги Хагихара.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 68,
+    "questionNumber": "068",
+    "questionText": "Каких персонажей вы бы хотели видеть своими братом или сестрой?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Братья и сестры из *Verudoman Kasetsu (Veiled Man Hypothesis)* [юбилейное 100-е ранобэ Нисио Исина. Сюжет повествует о семье, работа каждого члена которой связана с раскрытием преступлений. В семье 3 брата и 2 сестры].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 69,
+    "questionNumber": "069",
+    "questionText": "Кто ваш любимый персонаж из *«Стального алхимика»*?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Зольф Дж. Кимбли.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 70,
+    "questionNumber": "070",
+    "questionText": "Имя какого персонажа вы придумали быстрее всего?",
+    "tags": [
+      "Densetsu Series",
+      "Писательство"
+    ],
+    "answerText": "Ку Соракара [главный герой *Densetsu Series*. В его имени, по сути, три одинаковых кандзи: 空々空. Знак 々 используется для повтора предыдущего кандзи].",
+    "answerImage": "https://img2.teletype.in/files/57/07/57073c3f-d630-44e9-86be-11dde43cbbea.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 71,
+    "questionNumber": "071",
+    "questionText": "В ваших многочисленных циклах и произведениях повествование ведут самые разные персонажи. Кто из них ваш любимый рассказчик?",
+    "tags": [
+      "Pretty Boy Detective Club"
+    ],
+    "answerText": "Маюми Додзима [*Bishounen Tanteidan (Pretty Boy Detective Club)*, см. вопрос 010]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 72,
+    "questionNumber": "072",
+    "questionText": "Во многих ваших произведениях мужские персонажи переодевались в женскую одежду. Чьё переодевание вам больше всего понравилось?",
+    "tags": [
+      "Katanagatari"
+    ],
+    "answerText": "Круче всех в женском наряде выглядит Ситика Ясури [главный герой *Katanagatari*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 73,
+    "questionNumber": "073",
+    "questionText": "Какой персонаж из вселенных Нисио Исина лучше всего умеет пользоваться социальными сетями?",
+    "tags": [
+      "Medaka Box"
+    ],
+    "answerText": "Хансодэ Сирануи [*Medaka Box*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 74,
+    "questionNumber": "074",
+    "questionText": "В ваших произведениях довольно много персонажей, которые хорошо готовят. Например, Яёй Сасироно из *Zaregoto Series* и Митиру Фукурой из *Bishounen Tanteidan (Pretty Boy Detective Club)*. Если составить их рейтинг, то как бы он выглядел?",
+    "tags": [
+      "Zaregoto Series",
+      "Pretty Boy Detective Club"
+    ],
+    "answerText": "По части кулинарного мастерства Сасироно вне конкуренции, но домашняя еда лучше получается у Фукурои. [В ответе на японском используется небольшая игра слов — в описании применяется прилагательное うまい (умай), что может означать как «умелый», так и «вкусный»].",
+    "answerImage": "https://img1.teletype.in/files/c6/5f/c65fae93-4955-4cc4-a2dd-febf61803bf4.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 75,
+    "questionNumber": "075",
+    "questionText": "В ваших произведениях множество сильных героинь. Какая из них для вас наиболее полно воплощает представление о силе?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Надэко Сэнгоку [*Monogatari Series*], которая показала, как именно она становилась сильнее.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 76,
+    "questionNumber": "076",
+    "questionText": "Как именно вы придумываете реплики персонажей?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Я не столько придумываю реплики, сколько фиксирую их на бумаге — по крайней мере, у меня такое ощущение.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 77,
+    "questionNumber": "077",
+    "questionText": "К какому персонажу из *Monogatari Series* вы испытываете наибольшую эмоциональную привязанность?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Суруга Канбару.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 78,
+    "questionNumber": "078",
+    "questionText": "Из всех персонажей, которых иллюстратор Take нарисовала для вас, кто ваш самый любимый с точки зрения дизайна?",
+    "tags": [
+      "Zaregoto Series",
+      "Про иллюстрации"
+    ],
+    "answerText": "Магокоро Омокагэ [*Zaregoto Series*, Take нарисовала [специальный арт](https://x.com/_take_oekaki/status/1572499777182650369) для этого вопроса]. Ещё великолепна русалка, хотя персонажем её, пожалуй, не назовёшь.",
+    "answerImage": "https://img1.teletype.in/files/82/ca/82cab939-0b94-4c19-afb4-cb6912987037.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 79,
+    "questionNumber": "079",
+    "questionText": "Как вы познакомились с *Anne of Green Gables («Аня из зелёных мезонинов»)*, и какие у вас о ней воспоминания?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Я могу говорить об этом бесконечно, поэтому оставлю на другой раз. [В Японии культ этого детского романа — подробнее написал [здесь](https://t.me/AnimeSuggestion/2242)]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 80,
+    "questionNumber": "080",
+    "questionText": "Помимо смерти, что еще могло бы заставить вас перестать писать книги?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Болезнь?",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 81,
+    "questionNumber": "081",
+    "questionText": "Слоган *Shoujo Fujuubun (Imperfect Girl)*: «Мне потребовалось десять лет, чтобы написать эту книгу» [см. вопрос 027]. А о чём была бы книга, на написание которой потребуется 20 лет?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "*Kidnap Kidding*. Следите за обновлениями. [Это десятая книга *Zaregoto Series*. Она вышла в честь празднования 20-летия писательской карьеры Нисио Исина в 2023 году, через год после выхода этого текста].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 82,
+    "questionNumber": "082",
+    "questionText": "На выставке, посвященной 15-летию вашей карьеры, *NISIOISIN Daijiten*, вы упомянули, что посетили только 40 из 47 префектур Японии. А сейчас?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Посетил 47.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 83,
+    "questionNumber": "083",
+    "questionText": "*Delivery Room*, *Jinrui Saikyou no Venechia* [5 книга *Saikyou Series*] и 4 книга *Shin Honkaku Mahou Shoujo Risuka* вышли почти друг за другом. Мне показалось, что мотивы этих произведений перекликаются. Не подкидывала ли работа над одной из книг идеи для других?",
+    "tags": [
+      "Risuka Series",
+      "Delivery Room",
+      "Zaregoto Series",
+      "Писательство"
+    ],
+    "answerText": "Они писались одновременно. А вот в каком порядке за них брался — любопытный момент.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 84,
+    "questionNumber": "084",
+    "questionText": "Какие любимые и не любимые блюда у Дзюн Айкавы [*Zaregoto Series*]?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Она ест всё. Даже если это не еда.",
+    "answerImage": "https://img1.teletype.in/files/c8/af/c8af20aa-eaa0-4aca-aec2-104a951a078a.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 85,
+    "questionNumber": "085",
+    "questionText": "Пожалуйста, скажите возраст и дату рождения Дзюн Айкавы!",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Информация не доступна!",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 86,
+    "questionNumber": "086",
+    "questionText": "Волосы Дзюн Айкавы от природы красные? Или она их красит?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Возможно, она красит их кровью.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 87,
+    "questionNumber": "087",
+    "questionText": "Проколоты ли у Дзюн Айкавы уши?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Её туловище прокалывали…",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 88,
+    "questionNumber": "088",
+    "questionText": "Дзюн Айкава больше любит собак или кошек?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Больше любит себя.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 89,
+    "questionNumber": "089",
+    "questionText": "Если сравнить себя нынешнего с собой-новичком, в чём вы заметно выросли? А что, наоборот, уже не получается делать так, как прежде?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Я до сих пор новичок. И того и другого — полно.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 90,
+    "questionNumber": "090",
+    "questionText": "Вы больше любите собак, кошек или вообще пингвинов?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Себя я, во всяком случае, не выбираю. [См. вопрос 088]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 91,
+    "questionNumber": "091",
+    "questionText": "Мне кажется, что если взять Саматоки Хитсуути и Тёси Кусинака [*Sekai Series*], сложить их и поделить пополам, то получится И-тян [*Zaregoto Series*]. Есть ли хоть какая-то вероятность, что мне это не просто кажется? Мне достаточно даже маленькой вероятности.",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Этих двоих лучше никак не смешивать.",
+    "answerImage": "https://img4.teletype.in/files/fe/03/fe030f34-777b-4820-a1cc-22c07381a9a8.jpeg",
+    "answerImageDesc": "И-тян",
+    "answerVideo": null
+  },
+  {
+    "id": 92,
+    "questionNumber": "092",
+    "questionText": "Что вы обычно делаете перед или во время написания книг?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Пью горячий напиток, например, кофе или чёрный чай.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 93,
+    "questionNumber": "093",
+    "questionText": "Что вы порекомендуете мне съесть в Токийском Диснейленде?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Локо-моко в ресторане *Polynesian Terrace*.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 94,
+    "questionNumber": "094",
+    "questionText": "Какую магию вы бы использовали? Я был бы признателен, если бы вы ответили в стиле *Risuka Series*.",
+    "tags": [
+      "Risuka Series"
+    ],
+    "answerText": "Я бы вообще не стал использовать магию.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 95,
+    "questionNumber": "095",
+    "questionText": "Какой литературный жанр или приём, как например, липограмму, вы хотели бы попробовать в следующий раз?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Театральную пьесу!",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 96,
+    "questionNumber": "096",
+    "questionText": "Когда день рождения Ёцуги Ононоки [*Monogatari Series*]?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Она труп, поэтому у неё дня рождения нет.",
+    "answerImage": "https://img4.teletype.in/files/bb/e3/bbe3dc10-af32-4a78-82a2-ad321ce0c917.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 97,
+    "questionNumber": "097",
+    "questionText": "В *Monogatari Series* говорится, что феникс проживает до конца отведённый ему срок [до следующего перерождения]. До какого примерно возраста он в таком случае доживает?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Он проживает среднюю продолжительность жизни эпохи, в которой родился.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 98,
+    "questionNumber": "098",
+    "questionText": "Мне бы очень хотелось узнать дату рождения Сосики Дзэродзаки [*Ningen Series*]!",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "День, когда он стал Дзэродзаки.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 99,
+    "questionNumber": "099",
+    "questionText": "Что означает Mawaru Suzuki (Крутящийся Сузуки) [прозвище Хё Аяминами, заключённого хакера из *Zaregoto Series*]?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Значение неизвестно, но, по-моему, это самое крутое прозвище.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 100,
+    "questionNumber": "100",
+    "questionText": "Каким образом вы выбираете книги для чтения?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Хочу ли я их прочитать или нет.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 101,
+    "questionNumber": "101",
+    "questionText": "Получил ли И-тян особое прозвище, став наёмником?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Нет, его и после этого называют Zaregoto Tsukai (Повелитель бессмыслиц).",
+    "answerImage": "https://img3.teletype.in/files/e8/fd/e8fdf9b9-f925-4d71-bd70-95266eb342a8.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 102,
+    "questionNumber": "102",
+    "questionText": "В чём, на ваш взгляд, заключается разница между детьми и взрослым?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Детям принадлежит будущее, взрослым — прошлое.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 103,
+    "questionNumber": "103",
+    "questionText": "Какое ваше любимое время дня?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Время сна.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 104,
+    "questionNumber": "104",
+    "questionText": "Удалось ли вам посетить *Tiger Balm Garden* [парк скульптур и диорам, посвященный китайскому фольклору, мифам и традициям. Их три и находятся они в Гонконге, Сингапуре и в китайской провинции Фуцзянь]?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Нет, но я всё ещё хочу.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 105,
+    "questionNumber": "105",
+    "questionText": "Что вы предпочитаете, 2D или 4D?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "4D.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 106,
+    "questionNumber": "106",
+    "questionText": "Как вы приобрели такие великолепные навыки японского языка?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Великолепен сам язык.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 107,
+    "questionNumber": "107",
+    "questionText": "Какой из секретных гаджетов Дораэмона вам нравится больше всего, и какой вы бы хотели иметь?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Даже без всех секретных гаджетов больше всего мне нравится сам Дораэмон.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 108,
+    "questionNumber": "108",
+    "questionText": "Вы играете в видеоигры [на приставках, компьютере]?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Нет.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 109,
+    "questionNumber": "109",
+    "questionText": "Какая манга у Дзюн Айкавы [*Zaregoto Series*] на первом месте среди рекомендаций?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Сейчас это *RuriDragon*.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 110,
+    "questionNumber": "110",
+    "questionText": "Какое место в Киото рекомендуете посетить?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Философская тропа.",
+    "answerImage": "https://img1.teletype.in/files/81/ec/81ec43fb-da3c-4485-9d1f-d59934f9294c.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 111,
+    "questionNumber": "111",
+    "questionText": "Какую мангу вы читали недавно?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "*Hakozume* (*Police in a Pod, «Контратака женщины-полицейского»*)",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 112,
+    "questionNumber": "112",
+    "questionText": "Каков ваш нынешний девиз в жизни?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "И в сорок берись за всё, за что взялся бы в двадцать. [Нисио Исину сейчас больше 40 лет]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 113,
+    "questionNumber": "113",
+    "questionText": "Если предположить, что вам скоро придёт конец, то где, в чьём окружении и при каких обстоятельствах вы хотели бы провести последние минуты? Есть ли у вас какое-нибудь идеальное представление об этом?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Умирать мне, если честно, не очень-то хочется…",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 114,
+    "questionNumber": "114",
+    "questionText": "Какая книга вдохновила вас стать писателем?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "*Meirokan no Satsujin («Убийства в доме-лабиринте»)* [автор — Юкито Аяцудзи, ученик Содзи Симады, см. вопрос 058].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 115,
+    "questionNumber": "115",
+    "questionText": "Кому из придуманных вами персонажей, по-вашему, досталась лучшая смерть?",
+    "tags": [
+      "Katanagatari"
+    ],
+    "answerText": "Та самая героиня из *Katanagatari*.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 116,
+    "questionNumber": "116",
+    "questionText": "Играете ли вы в мобильные онлайн-игры?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Поигрываю, но в меру.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 117,
+    "questionNumber": "117",
+    "questionText": "Когда Ёцуги Ононоки впервые появилась в *Nisemonogatari*, в романе она была в босоножках, но в аниме уже оказалась в резиновых сапогах. Есть ли какая-то причина замены?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Так как в аниме она носила резиновые сапоги, то и в ранобэ переобулась.",
+    "answerImage": "https://img4.teletype.in/files/73/80/7380b62b-c4dc-48eb-aee2-aae5162c7b4e.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 118,
+    "questionNumber": "118",
+    "questionText": "Как бы вы перевели английскую фразу «I Love you» на японский?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "А любовь-то зачем переводить?",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 119,
+    "questionNumber": "119",
+    "questionText": "В чём, по-вашему, привлекательность визуальных новелл?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Превосходные саундтреки.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 120,
+    "questionNumber": "120",
+    "questionText": "В ваших книгах порой встречаются эффектные дизайнерские решения — например, обложки *Hitokui Magical* [5 книга *Zaregoto Series*] и *Okitegami Kyouko no Urabyoushi* [9 книга *Boukyaku Tantei Series (Forgetful Detective)*] или приглашение в *Delivery Room*. Кто всё это придумывает?",
+    "tags": [
+      "Zaregoto Series",
+      "Delivery Room",
+      "Forgetful Detective",
+      "Про иллюстрации"
+    ],
+    "answerText": "Это обсуждается на рабочих встречах многими людьми. [На внешних и внутренних обложках *Hitokui Magical* и *Okitegami Kyouko no Urabyoushi* изображаются разные сцены, но расположение предметов и героев сохраняется. В бумажное издание *Delivery Room* вложен отдельный лист, оформленный как настоящее приглашение, которое в начале романа получает главная героиня].",
+    "answerImage": "https://img4.teletype.in/files/32/f2/32f28383-b902-4cff-b63b-b65193cca23d.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 121,
+    "questionNumber": "121",
+    "questionText": "Вы уже решили, какие дни рождения и рост у Кинсиро Ёкуя и Лай Фудацуки [*Bishounen Tanteidan (Pretty Boy Detective Club)*]?",
+    "tags": [
+      "Pretty Boy Detective Club"
+    ],
+    "answerText": "Это им самим решать.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 122,
+    "questionNumber": "122",
+    "questionText": "Блаженный застой или болезненный прогресс — что бы вы предпочли?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Болезненный прогресс.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 123,
+    "questionNumber": "123",
+    "questionText": "Вы принимаете ванну аж по три раза в день [информация с выставки *NISIOISIN Daijiten*]. Чем вы там занимаетесь?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Медитирую.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 124,
+    "questionNumber": "124",
+    "questionText": "Как изменился ваш режим сна, когда вы привыкли к жизни писателя?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "В последнее время я стал больше спать.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 125,
+    "questionNumber": "125",
+    "questionText": "Как И-тян впервые столкнулся с Организацией Кунагиса и что тогда произошло [*Zaregoto Series*]?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Похоже, он чем-то настроил их против себя.",
+    "answerImage": "https://img4.teletype.in/files/b1/21/b121df3c-4cee-4b3b-8b58-793cc950328d.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 126,
+    "questionNumber": "126",
+    "questionText": "В какой стране лучшие бани?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Милан.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 127,
+    "questionNumber": "127",
+    "questionText": "Какая ваша любимая глава манги *«Дораэмон»*? Моя — *«Человек с планеты Гарапа»* [глава 860].",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "*«Возвращение Дораэмона»* [глава 107], которая, кстати, стала первой главой этой манги, которую я прочитал.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 128,
+    "questionNumber": "128",
+    "questionText": "Кто ваш любимый математик?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Эйлер.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 129,
+    "questionNumber": "129",
+    "questionText": "Сколько автографов вы уже дали?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Чуть меньше 30 000. Наверное.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 130,
+    "questionNumber": "130",
+    "questionText": "Какая из написанных вами фраз, на ваш взгляд, способна сильнее всего воодушевить человека?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "«Не сдавайся!» [頑張れ, гамбарэ].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 131,
+    "questionNumber": "131",
+    "questionText": "Что значит «быть сильнейшим»?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "В своих книгах я исхожу из того, что сильнейшая — Дзюн Айкава [В *Zaregoto Series* её называют «сильнейшей наёмницей человечества», и про неё есть отдельный спин-офф — *Saikyou Series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 132,
+    "questionNumber": "132",
+    "questionText": "Я хотел бы узнать дату рождения Томо Кунагисы [*Zaregoto Series*].",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Это конфиденциальная информация.",
+    "answerImage": "https://img4.teletype.in/files/7d/66/7d66f0d1-1890-4546-ac9f-3664c91d803f.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 133,
+    "questionNumber": "133",
+    "questionText": "Мне нравится, как вы используете уникальные приёмы каждого жанра. Планируете ли вы попробовать себя в чём-нибудь новом — например, написать детскую книжку с картинками?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Я всегда готов к вызовам!",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 134,
+    "questionNumber": "134",
+    "questionText": "Вам когда-нибудь казалось, что вы отстали от жизни? Если да, то в какие моменты?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Да! Когда никак не могу разобраться в функциях смартфона.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 135,
+    "questionNumber": "135",
+    "questionText": "Какие у вас цели и мечты на следующие 20 лет?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Еще одна сериализация в *Weekly Shonen Jump*. [И он её осуществил уже через 2 месяца после выхода в печать этих вопросов — в ноябре 2022 началась сериализация *Angou Gakuen no Iroha (Cipher Academy)*]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 136,
+    "questionNumber": "136",
+    "questionText": "Начали ли вы использовать какие-либо специализированные приложения или устройства для письма?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Я использую *Pomera* для написания [электронная печатная машинка].",
+    "answerImage": "https://img3.teletype.in/files/e3/7a/e37aa565-fbb9-4d9f-95ef-a523d28ddd9d.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 137,
+    "questionNumber": "137",
+    "questionText": "Какая ваша любимая еда?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Черника.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 138,
+    "questionNumber": "138",
+    "questionText": "На выставке *NISIOISIN Daijiten* десять ваших самых значимых персонажей были названы «ключевыми личностями». Пять лет спустя, кого бы вы добавили в этот список?",
+    "tags": [
+      "Henkyaku Kaitou Series",
+      "Писательство"
+    ],
+    "answerText": "Торахарука Урусава [*Henkyaku Kaitou Series,* см. вопрос 056].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 139,
+    "questionNumber": "139",
+    "questionText": "Когда вы больше всего чувствуете себя самим собой?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Когда пишу романы.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 140,
+    "questionNumber": "140",
+    "questionText": "В *Zaregoto Dictional* вы назвали френч-круллер божественным деликатесом. Это по-прежнему ваш любимый вид пончиков?",
+    "tags": [
+      "Zaregoto Series",
+      "Личное"
+    ],
+    "answerText": "Френч-круллер я по-прежнему люблю, но если можно выбрать второй, то добавлю медовый чуррос.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 141,
+    "questionNumber": "141",
+    "questionText": "Какое решение вы бы приняли в «проблеме вагонетки»?",
+    "tags": [
+      "Личное",
+      "Писательство"
+    ],
+    "answerText": "Напишу в одном из будущих романов.",
+    "answerImage": "https://img4.teletype.in/files/b9/3b/b93b9bda-7317-4346-8317-716552fe7b9f.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 142,
+    "questionNumber": "142",
+    "questionText": "Вам больше нравятся электронные или бумажные книги?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "И те, и другие.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 143,
+    "questionNumber": "143",
+    "questionText": "Вы смотрите телевизор? Если да, то есть ли у вас любимое шоу?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "*LOVE it!* (ラヴィット！) [Утреннее развлекательное шоу]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 144,
+    "questionNumber": "144",
+    "questionText": "В чём секрет удачного выбора подарка?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Лучше дарить то, что человеку не придётся хранить.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 145,
+    "questionNumber": "145",
+    "questionText": "Изменился ли ваш любимый аттракцион в Диснейленде с тех пор, как вы в последний раз писали об этом для выставки *NISIOISIN Daijiten*?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Теперь это *Enchanted Tale of Beauty and the Beast*.",
+    "answerImage": "https://img4.teletype.in/files/3a/a3/3aa365df-dd71-4940-aac1-661a6569e348.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 146,
+    "questionNumber": "146",
+    "questionText": "Что вы чувствуете, когда завершаете многолетний цикл?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Конечно, в такие моменты меня переполняют чувства.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 147,
+    "questionNumber": "147",
+    "questionText": "В *Densetsu Series* фигурируют все планеты Солнечной системы. На какой из них вам хотелось бы побывать?",
+    "tags": [
+      "Densetsu Series"
+    ],
+    "answerText": "Будь это возможно, я бы посетил все.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 148,
+    "questionNumber": "148",
+    "questionText": "Как часто вы бываете в *Mister Donut*?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Столько, сколько положено в моём возрасте.",
+    "answerImage": "https://img3.teletype.in/files/26/fa/26fa60f2-e9e1-48de-b741-c6ba20a29b8e.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 149,
+    "questionNumber": "149",
+    "questionText": "Когда вы в последний раз были в Диснейленде?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Не будет преувеличением сказать, что вчера.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 150,
+    "questionNumber": "150",
+    "questionText": "Когда вы пишете, слушаете ли параллельно музыку или занимаетесь чем-нибудь ещё?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "У меня всегда что-нибудь играет на фоне: это помогает держать темп работы.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 151,
+    "questionNumber": "151",
+    "questionText": "Если бы у вас была возможность попасть в мир книги, вы бы отправились туда?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Конечно. Вернуться ведь можно будет, да?",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 152,
+    "questionNumber": "152",
+    "questionText": "Можно ли считать, что все ваши произведения разворачиваются в одной мультивселенной — или даже в одной омнивселенной?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Нет, они не связаны между собой. Но существуют персонажи, способные соединять разные миры.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 153,
+    "questionNumber": "153",
+    "questionText": "Что вы учитываете при написании закадровых аудио-комментариев к *Monogatari Series* и другим сериалам?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Стараюсь, чтобы они не мешали смотреть сам эпизод. [Здесь имеется в виду специальные аудиодорожки с комментариями персонажей, записанные для дисковых изданий аниме. Их озвучивают сэйю соответствующих персонажей, а сценарий пишет сам Нисио Исин. Пример — [комментарии к 1 эпизоду](https://youtu.be/_myVGuEIiu4) *Bakemonogatari* с английскими субтитрами]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": "https://youtu.be/_myVGuEIiu4"
+  },
+  {
+    "id": 154,
+    "questionNumber": "154",
+    "questionText": "Каждая книга в ваших циклах, таких как *Monogatari Series*, обычно имеет своё уникальное название. Как именно вы их придумываете?",
+    "tags": [
+      "Monogatari Series",
+      "Писательство"
+    ],
+    "answerText": "Можно сказать, что с названия у меня всё и начинается.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 155,
+    "questionNumber": "155",
+    "questionText": "Есть ли у вас ежедневная привычка, без которой день кажется незавершённым?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Чтение газеты.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 156,
+    "questionNumber": "156",
+    "questionText": "Если бы вы могли взять с собой на необитаемый остров только одну вещь, что бы это было?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Наверное, швейцарский нож.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 157,
+    "questionNumber": "157",
+    "questionText": "Чьи блюда вы бы предпочли попробовать — Яёй Сасироно из *Zaregoto Series* или Митиру Фукурой из *Bishounen Tanteidan (Pretty Boy Detective Club)* [см. вопрос 074]?",
+    "tags": [
+      "Zaregoto Series",
+      "Pretty Boy Detective Club"
+    ],
+    "answerText": "Митиру Фукурой.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 158,
+    "questionNumber": "158",
+    "questionText": "Я влюблена в Хитосики Дзэродзаки [*Zaregoto Series*]. Пожалуйста, скажите, какие девушки ему нравятся!",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "По всей видимости, к Идзуму Ниоиномии он был очень неравнодушен.",
+    "answerImage": "https://img4.teletype.in/files/7d/d9/7dd94e95-0860-4376-bf20-021ae7ab00ec.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 159,
+    "questionNumber": "159",
+    "questionText": "Какое ваше любимое место в доме?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Кровать.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 160,
+    "questionNumber": "160",
+    "questionText": "Какое ваше любимое слово?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Мне нравится узнавать слова, которых я прежде не знал.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 161,
+    "questionNumber": "161",
+    "questionText": "Если бы у вас было достаточно времени, чему вам хотелось бы как следует научиться? Не обязательно что-то академическое.",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Я хочу выучить французский.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 162,
+    "questionNumber": "162",
+    "questionText": "О чём вы обычно думаете в свободное время?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "О том, какой будет следующая книга.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 163,
+    "questionNumber": "163",
+    "questionText": "Сколько времени у вас обычно уходит на правки рукописей?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Один день.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 164,
+    "questionNumber": "164",
+    "questionText": "У вас много поклонников и за рубежом. Что вы об этом думаете? Ориентируетесь ли вы на зарубежных читателей во время написания книг?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Это меня радует.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 165,
+    "questionNumber": "165",
+    "questionText": "Япония известна своими токусацу-сериалами, такими как *Kamen Rider* и *Ultraman*. Для какого из них вы бы хотели попробовать написать сценарий?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Токусацу я только смотрю.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 166,
+    "questionNumber": "166",
+    "questionText": "Если бы вам пришлось начать карьеру заново, вернувшись на двадцать лет назад, какой совет вы дали бы самому себе?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Продолжай в том же духе.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 167,
+    "questionNumber": "167",
+    "questionText": "Были ли у вас другие варианты прозвища для Ситики, кроме «Ситирин»?",
+    "tags": [
+      "Katanagatari"
+    ],
+    "answerText": "Ясурин. [Ситика Ясури — главный герой *Katanagatari*]",
+    "answerImage": "https://img3.teletype.in/files/a6/a7/a6a7fe68-baef-4c88-b772-6ae7f48d9c93.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 168,
+    "questionNumber": "168",
+    "questionText": "Нанамэ нанадзю нанадо но нараби дэ наку наку инанаку нанахан нанадай наннаку нарабэтэ наганагамэ. Сможете повторить трижды, не запнувшись?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Я и один раз не смогу. [Эту скороговорку придумал главный герой Bakemonogatari, Арараги Коёми, чтобы Блэк Ханэкава повторила её с заменой слога «на» на кошачее «ня». Подробнее написал [тут](https://t.me/m_onogatari/365)]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 169,
+    "questionNumber": "169",
+    "questionText": "Я считаю шифр в главе *Kuroneko Bed* сборника *Mazemonogatari* настоящим шедевром. Долго вы над ним мучились?",
+    "tags": [
+      "Monogatari Series",
+      "Писательство"
+    ],
+    "answerText": "Не помню, сколько времени на него ушло, зато прекрасно помню, что работать над ним было очень весело. [*Mazemonogatari* — это сборник коротких историй, в которых главный герой *Monogatari Series*, Арараги Коёми, встречает персонажей из других работ Нисио Исина. В главе *Kuroneko Bed* он встречает главную героиню *Sekai Series* — девушку по имени Куронэко Бёиндзака]",
+    "answerImage": "https://img2.teletype.in/files/96/35/96359376-8b35-440a-b69a-776029596cae.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 170,
+    "questionNumber": "170",
+    "questionText": "Существует же известное стихотворение-сэнрю про кукушку. Как бы вы его сложили?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Коль не кукует,\nТак пусть хоть улыбнётся\nСия кукушка\n\n[Попытался перевести по правилам [сэнрю](https://ru.wikipedia.org/wiki/%D0%A1%D1%8D%D0%BD%D1%80%D1%8E) в 5-7-5 слогов.\n\nСуществует три версии стиха, каждую из которых приписывают легендарному даймё, и каждая из которых описывает их метод правления:\n\n**Ода Нобунага:**\n\nКоль не кукует,\nУбейте немедленно\nСию кукушку\n\n**Тоётоми Хидэёси:**\n\nКоль не кукует,\nТак заставьте куковать\nСию кукушку\n\n**Токугава Иэясу:**\n\nКоль не кукует,\nПодождём кукованья\nСией кукушки\n\nПодробнее (англ): [раз](https://en.wiktionary.org/wiki/%E9%B3%B4%E3%81%8B%E3%81%AC%E3%81%AA%E3%82%89%E9%B3%B4%E3%81%8F%E3%81%BE%E3%81%A7%E5%BE%85%E3%81%A8%E3%81%86%E6%99%82%E9%B3%A5), [два](https://japan-sengoku-honlit-jackie.weebly.com/key-warlords.html)]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 171,
+    "questionNumber": "171",
+    "questionText": "Если бы «Лайт-райтер» и «Паблик-бук» [*Saikyou Series*] существовали на самом деле и для вас создали идеальный персональный сюжет, какую историю вы хотели бы прочитать?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Одно можно сказать наверняка: у неё был бы счастливый конец. [Это два понятия из *Jinrui Saikyou no Tokimeki*, третьего тома *Saikyou Series*. «Лайт-райтер» — программа, которая автоматически сочиняет для каждого читателя идеальный роман, следя за его реакциями и на ходу подстраивая сюжет под его вкусы. Созданное ею произведение называется «Паблик-бук». Оно настолько увлекательно и практически бесконечно, что читатель забывает о сне и еде, и в конце концов умирает, так и не дочитав книгу]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 172,
+    "questionNumber": "172",
+    "questionText": "Вы писали, что некоторые авторы не любят, когда их называют «сэнсэями». А у вас такое обращение вызывает внутреннее сопротивление?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Никакого сопротивления. [В Японии «сэнсэями» называют не только учителей, но и врачей, художников, писателей]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 173,
+    "questionNumber": "173",
+    "questionText": "Какая ваша лучшая покупка в 2021 году?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Обувь.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 174,
+    "questionNumber": "174",
+    "questionText": "Что вы делаете, чтобы развеяться, когда работа над книгой заходит в тупик?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Гуляю.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 175,
+    "questionNumber": "175",
+    "questionText": "24014 дней — это 65,8 года. Примерно через 45 лет, в 2066 году, ваша писательская карьера достигнет этой символической отметки. Вы планируете как-то отметить это событие?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Что-то не верится, что я до этого доживу. [Число 24014 состоит из цифры 240, которую по-японски можно [прочитать](https://en.wikipedia.org/wiki/Numeric_substitution_in_Japanese) как «нисио», и 14, которую можно прочитать как «исин»]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 176,
+    "questionNumber": "176",
+    "questionText": "Какая экспозиция, тематическая зона или инсталляция на выставке *NISIOISIN Daijiten* понравилась вам больше всего?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Призрачная клавиатура. [[Инсталляция](https://x.com/nisioisin_ex/status/890421866216607745) с монитором и клавиатурой, которая воспроизводила рабочее место Нисио Исина. Клавиши клавиатуры нажимались сами собой, а на экране появлялся черновик тогда ещё не опубликованного романа]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 177,
+    "questionNumber": "177",
+    "questionText": "Считаете ли вы девятый том *Zaregoto Series* своим лучшим произведением? Намерены ли вы его превзойти? И какой том цикла вам нравится больше всего?",
+    "tags": [
+      "Zaregoto Series",
+      "Писательство"
+    ],
+    "answerText": "В идеале мне хотелось бы снова и снова превосходить самого себя.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 178,
+    "questionNumber": "178",
+    "questionText": "Что именно покорило вас в иллюстрациях *VOFAN’а*?",
+    "tags": [
+      "Monogatari Series",
+      "Forgetful Detective",
+      "Про иллюстрации"
+    ],
+    "answerText": "Взгляд на мир, изображенный в его пейзажах. [*VOFAN* — иллюстратор обложек и дизайнер персонажей *Monogatari Series* и *Boukyaku Tantei Series (Forgetful Detective)*]",
+    "answerImage": "https://img1.teletype.in/files/4f/8e/4f8e16d7-5457-4264-8b46-91d7953bf2e2.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 179,
+    "questionNumber": "179",
+    "questionText": "Новые идеи обычно приходят к вам внезапно или рождаются уже в процессе написания?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Чаще всё-таки внезапно.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 180,
+    "questionNumber": "180",
+    "questionText": "Какую серию аниме *Monogatari Series* вы пересматривали больше всего раз?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Последнюю серию *Tsukihi Phoenix* [11 серия *Nisemonogatari*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 181,
+    "questionNumber": "181",
+    "questionText": "Что обычно лежит у вас на столе, за которым вы работаете?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Стараюсь, чтобы на нём было как можно меньше вещей.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 182,
+    "questionNumber": "182",
+    "questionText": "Вам больше нравятся *Kinoko no Yama* или *Takenoko no Sato*? А может, неожиданно для всех — *Kikori no Kirikabu*?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "С шоколадом я любые сладости ем. [Это три популярных вида японского шоколадного печенья, первые два особенно популярны]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 183,
+    "questionNumber": "183",
+    "questionText": "Появились ли у вас новые привычки за время пандемии, когда действовали ограничения на прогулки?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Каждый день смотрю хотя бы один сериал или фильм на стриминге.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 184,
+    "questionNumber": "184",
+    "questionText": "Какой персонаж или образ в экранизации оказался ближе всего к тому, каким вы представляли его при написании?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Краб из аниме *Bakemonogatari*.",
+    "answerImage": "https://img1.teletype.in/files/ce/a2/cea2cbf8-b1c3-4f50-8b74-c1c602bc8bab.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 185,
+    "questionNumber": "185",
+    "questionText": "Бывают ли у вас творческие кризисы? Если да, как вы с ними справляетесь?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Продолжаю писать, не дожидаясь, пока он пройдёт.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 186,
+    "questionNumber": "186",
+    "questionText": "Какая ваша любимая часть серии игр *Dragon Quest*?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "IX.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 187,
+    "questionNumber": "187",
+    "questionText": "Допустим, вы собрали все семь Драконьих шаров. Что бы вы загадали???",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Я бы пожелал стать Супер Сайяном. [В манге/аниме *Dragon Ball* если собрать 7 Драконьих шаров, то можно загадать любое желание. Супер Сайян — это временная боевая трансформация, которая увеличивает силу и окрашивает волосы в золотой цвет]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 188,
+    "questionNumber": "188",
+    "questionText": "Есть ли у вас правила написания текста — например, когда вы пишете «процент» катаканой [а не символом «%»]?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Это скорее ощущение, чем правило.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 189,
+    "questionNumber": "189",
+    "questionText": "Вы говорили, что ведёте ежедневник. Чем именно вы заполняете каждую страницу?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Вклеиваю туда всякие мелочи, например, корешки билетов в кино.",
+    "answerImage": "https://img2.teletype.in/files/58/ff/58ff0298-20cb-4b3c-8b01-f562a98fb704.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 190,
+    "questionNumber": "190",
+    "questionText": "Есть ли формат адаптации, в котором вам ещё не доводилось видеть свои произведения, но хотелось бы?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Следите за новостями.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 191,
+    "questionNumber": "191",
+    "questionText": "Что вы думаете о метафикшене и метанарративах?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Я пока об этом не думал.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 192,
+    "questionNumber": "192",
+    "questionText": "Если бы через год наступил конец света, как бы вы провели оставшееся время?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Наверное, в спешке писал бы романы.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 193,
+    "questionNumber": "193",
+    "questionText": "Кому служит Нурэгину Ямигути [*Zaregoto Series*]?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "Узнаете — вас убьют.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 194,
+    "questionNumber": "194",
+    "questionText": "Что бы вы принесли на яминабэ? [японская застольная игра: каждый приносит что-нибудь съедобное, всё складывают в общий котел в темноте, варят и в итоге пробуют получившееся блюдо]",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Шоколад, наверное.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 195,
+    "questionNumber": "195",
+    "questionText": "У Идзуко Гаэн [*Monogatari Series*] от природы каштановые волосы?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "Разве она их не красит?",
+    "answerImage": "https://img2.teletype.in/files/12/53/12537260-8e8d-4fd2-918f-969008f5499e.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 196,
+    "questionNumber": "196",
+    "questionText": "Как именно вы писали школьные сочинения о прочитанных книгах?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Что прочитал, то и писал.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 197,
+    "questionNumber": "197",
+    "questionText": "Вы однажды сказали, что перестали чувствовать себя новичком, завершив *Zaregoto Series*. А бывало ли так, что вы ощущали себя уже опытным писателем — или даже ветераном?",
+    "tags": [
+      "Zaregoto Series",
+      "Писательство"
+    ],
+    "answerText": "Вот сейчас, когда вы об этом спросили.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 198,
+    "questionNumber": "198",
+    "questionText": "Какой ваш любимый цветок?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Аморфофаллус гигантский (Amorphophallus gigas).",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 199,
+    "questionNumber": "199",
+    "questionText": "Какое ваше любимое время года и ваше любимое старинное японское название одного из месяцев?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Зима. Сивасу (декабрь).",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 200,
+    "questionNumber": "200",
+    "questionText": "Какая ваша любимая идиома из четырех иероглифов?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Ёдзидзюкуго (四字熟語, буквально «идиома из четырех иероглифов»). Хотя они мне все нравятся.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 201,
+    "questionNumber": "201",
+    "questionText": "Какое ваше любимое средство передвижения?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Самолет.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 202,
+    "questionNumber": "202",
+    "questionText": "Какое слово или фраза из тех, что вам встречались, особенно поразили своей красотой?",
+    "tags": [
+      "Личное",
+      "Писательство"
+    ],
+    "answerText": "Выбрать самое красивое невозможно.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 203,
+    "questionNumber": "203",
+    "questionText": "Какое самое вкусное блюдо вы когда-либо ели?!",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Уцуномия-хамкацу [котлета из ветчины, обжаренная в панировке].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 204,
+    "questionNumber": "204",
+    "questionText": "Аниме-экранизацию какой из ваших неэкранизированных франшиз больше всего хотелось бы посмотреть?",
+    "tags": [
+      "Densetsu Series",
+      "Risuka Series"
+    ],
+    "answerText": "*Densetsu Series* и *Risuka Series*.",
+    "answerImage": "https://img2.teletype.in/files/d4/df/d4df4432-ef63-40ba-b043-de3d291b719b.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 205,
+    "questionNumber": "205",
+    "questionText": "Что вы ели сегодня на завтрак?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Спринг-роллы.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 206,
+    "questionNumber": "206",
+    "questionText": "Что вы хотите прямо сейчас?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Тренажер-лестницу *Stepmill*.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 207,
+    "questionNumber": "207",
+    "questionText": "Что из новых аттракционов или шоу Токийского Диснейленда вам особенно понравились?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "*Mickey’s Magical Music World*.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 208,
+    "questionNumber": "208",
+    "questionText": "Какой фильм вы недавно посмотрели?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "*Lightyear («Базз Лайтер»)*.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 209,
+    "questionNumber": "209",
+    "questionText": "Стали бы вы писателем и в следующей жизни? Почему?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Стал бы. Ничего другого не хочется.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 210,
+    "questionNumber": "210",
+    "questionText": "Если хочешь стать писателем, имеет ли значение, где ты учился?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Нет.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 211,
+    "questionNumber": "211",
+    "questionText": "Что нужно сделать, чтобы зарабатывать на жизнь одним писательством?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Осознать, что больше ты ничего не умеешь.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 212,
+    "questionNumber": "212",
+    "questionText": "Включаете ли вы фоном музыку, когда работаете? Если да, назовите одну песню.",
+    "tags": [
+      "Monogatari Series",
+      "Писательство"
+    ],
+    "answerText": "Когда транслировали *Bakemonogatari*, я всё время переслушивал записи эпизодов.",
+    "answerImage": "https://img1.teletype.in/files/8c/40/8c403df5-c466-4eed-b577-76c3072db5d8.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 213,
+    "questionNumber": "213",
+    "questionText": "Если бы вы превратились в книгу, чем бы стали — романом, мангой, книжкой с картинками, сборником стихов?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Словарём.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 214,
+    "questionNumber": "214",
+    "questionText": "Если бы вы могли стереть себе память и насладиться любимым романом, мангой, игрой или фильмом, как в первый раз, то что бы выбрали?",
+    "tags": [
+      "Личное",
+      "Писательство"
+    ],
+    "answerText": "*Senseijutsu Satsujinjiken («Токийский Зодиак»)* [Автор — Содзи Симада. См. вопрос 058].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 215,
+    "questionNumber": "215",
+    "questionText": "Я заметил, что в ваших ранних работах необычно много 27-летних: тройняшки Тига [*Zaregoto Series*], Нанами Ясури [*Katanagatari*], Кисисики Дзэродзаки в *Ningen Knock* [*Ningen Series*], взрослая форма Риски [*Risuka Series*] и т. д. У вас есть этому объяснение?",
+    "tags": [
+      "Zaregoto Series",
+      "Risuka Series",
+      "Katanagatari",
+      "Писательство"
+    ],
+    "answerText": "Тогда мне казалось, что двадцать семь лет — возраст взрослого человека. Сейчас я бы, наверное, выбрал 33 года.",
+    "answerImage": "https://img3.teletype.in/files/26/15/2615f0e4-6301-40c6-b470-dc1e02130df0.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 216,
+    "questionNumber": "216",
+    "questionText": "Есть ли произведение, которое вам было особенно мучительно писать? Если да, то почему?",
+    "tags": [
+      "Pretty Boy Detective Club",
+      "Писательство"
+    ],
+    "answerText": "Последний том *Bishounen Tanteidan (Pretty Boy Detective Club)*. Тяжело было сознавать, что я его допишу — и команда разойдётся.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 217,
+    "questionNumber": "217",
+    "questionText": "Сёги часто встречается в ваших романах. Вы сами играете?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "В одиночку в эту игру не поиграть.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 218,
+    "questionNumber": "218",
+    "questionText": "О чём вы мечтали в детстве?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Стать профессиональным бейсболистом.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 219,
+    "questionNumber": "219",
+    "questionText": "А Tempo Drop, который украшает вашу комнату, ещё для чего-нибудь используете?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Погоду по нему смотрю. [[Tempo Drop](https://store.moma.org/en-cy/products/tempo-drop-storm-glass-weather-forecaster) — декоративная стеклянная колба, в которой кристаллы реагируют на погоду]",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 220,
+    "questionNumber": "220",
+    "questionText": "Что, по-вашему, величайшее изобретение человечества?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Бумага.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 221,
+    "questionNumber": "221",
+    "questionText": "Очень хочется узнать текст новой песни *«GOOD LOSER GOOD LUCK»* группы *Kiwoterae*, в которой поёт Саки Сукинасаки [*Medaka Box*]…",
+    "tags": [
+      "Medaka Box"
+    ],
+    "answerText": "Мне тоже.",
+    "answerImage": "https://img2.teletype.in/files/5e/81/5e81e075-032f-41a8-8008-fcc7050a87a0.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 222,
+    "questionNumber": "222",
+    "questionText": "Что вы хотели бы успеть довести до конца, пока еще живы?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Мне пока хочется лишь начинать что-то новое.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 223,
+    "questionNumber": "223",
+    "questionText": "В кого бы вы хотели переродиться? Животные, растения, предметы — подойдет всё.",
+    "tags": [
+      "Личное",
+      "Писательство"
+    ],
+    "answerText": "В потрясающую книгу в твердом переплете.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 224,
+    "questionNumber": "224",
+    "questionText": "Какой роман вы прочитали самым первым?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Не уверен, что смогу вспомнить.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 225,
+    "questionNumber": "225",
+    "questionText": "В ваших произведениях много ритмичных диалогов. Разговоры между какими персонажами вам было интереснее всего писать?",
+    "tags": [
+      "Monogatari Series",
+      "Писательство"
+    ],
+    "answerText": "Ханэкава и Шинобу [*Monogatari Series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 226,
+    "questionNumber": "226",
+    "questionText": "Вы работаете одновременно сразу над несколькими сериалами, а не начинаете новый только после завершения предыдущего. Не путаетесь ли вы в деталях и сюжетных намёках каждого из них?",
+    "tags": [
+      "Delivery Room",
+      "Писательство"
+    ],
+    "answerText": "Хотелось бы сказать, что нет, но в период работы над *Delivery Room* я заметил, что иногда явно путаюсь [См. вопрос 083].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 227,
+    "questionNumber": "227",
+    "questionText": "Если бы вы могли использовать одну из 12 квадриллионов способностей Надзими Адзиму [*Medaka Box*], какую бы выбрали?",
+    "tags": [
+      "Medaka Box"
+    ],
+    "answerText": "*Give Up-Down* [способность цепляться за высокие потолки. На момент ввода в сюжет у неё было 12 858 051 967 633 865 способностей].",
+    "answerImage": "https://img3.teletype.in/files/e3/10/e3103349-5481-4a36-bb38-765cde891f46.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 228,
+    "questionNumber": "228",
+    "questionText": "Какая ваша любимая арка в *Monogatari Series*?",
+    "tags": [
+      "Monogatari Series"
+    ],
+    "answerText": "*Ougi Formula* [первые два эпизода аниме *Owarimonogatari*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 229,
+    "questionNumber": "229",
+    "questionText": "Что для вас стоит на третьем месте по важности?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Удача.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 230,
+    "questionNumber": "230",
+    "questionText": "В ваших произведениях появляется множество видов оружия. Какое вам нравится больше всего?",
+    "tags": [
+      "Zaregoto Series"
+    ],
+    "answerText": "*Mind Render* [ножницы, которые использует Сосики Дзэродзаки в *Ningen Series*].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 231,
+    "questionNumber": "231",
+    "questionText": "Выход ваших новых книг часто сопровождают необычные рекламные кампании. Вы сами предлагаете для них идеи? Хотелось бы узнать и об отвергнутых идеях.",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Всем маркетингом занимаются издатели.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 232,
+    "questionNumber": "232",
+    "questionText": "Что для вас значит журнал *Mephisto* [в нём публиковался Нисио Исин]?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Это первый литературный журнал, который я купил.",
+    "answerImage": "https://img3.teletype.in/files/ae/c4/aec43aac-f8c7-4732-b118-c57fa0b3c93c.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 233,
+    "questionNumber": "233",
+    "questionText": "Что для вас конец света?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Удивительно живучая штука.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 234,
+    "questionNumber": "234",
+    "questionText": "Какой ваш любимый фильм про Дораэмона?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "*Nobita and the Birth of Japan* [10 фильм франшизы, вышел в 1989 году].",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 235,
+    "questionNumber": "235",
+    "questionText": "Каких персонажей-детей вам легче всего писать: старших, средних, младших, либо единственных в семье?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Легче всего писать средних детей.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 236,
+    "questionNumber": "236",
+    "questionText": "Был ли у вас какой-то особый принцип составления комбинаций боевых приёмов в *Katanagatari*?",
+    "tags": [
+      "Katanagatari"
+    ],
+    "answerText": "Чтобы они соответствовали характеру персонажа.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 237,
+    "questionNumber": "237",
+    "questionText": "Что вам больше нравится — читать или писать книги?",
+    "tags": [
+      "Писательство"
+    ],
+    "answerText": "Читать. В том числе и мои собственные.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 238,
+    "questionNumber": "238",
+    "questionText": "Вы перекусываете по ночам?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Лучше этого не делать.",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 239,
+    "questionNumber": "239",
+    "questionText": "В чём, по-вашему, разница между любовью и дружбой?",
+    "tags": [
+      "Личное"
+    ],
+    "answerText": "Разве они не похожи?",
+    "answerImage": null,
+    "answerImageDesc": null,
+    "answerVideo": null
+  },
+  {
+    "id": 240,
+    "questionNumber": "240",
+    "questionText": "Я без ума от того, что каждая часть *Okitegami Kyouko no Bibouroku* [первая книга *Boukyaku Tantei Series (Forgetful Detective)*] заканчивается пометкой «Забыто». Когда вы придумали этот приём?",
+    "tags": [
+      "Forgetful Detective",
+      "Писательство"
+    ],
+    "answerText": "В самом начале. [В конце каждой части этой книги название части повторяется в скобках с припиской 忘却 (бокяку), что означает «Процесс забывания», «Забыто». Главная героиня забывает все события дня после сна, поэтому и завершение сюжета части знаменуется такой пометкой]",
+    "answerImage": "https://img4.teletype.in/files/3c/b7/3cb732c3-9ec0-4ff5-b55d-e3d73928cd81.jpeg",
+    "answerImageDesc": null,
+    "answerVideo": null
+  }
+]
